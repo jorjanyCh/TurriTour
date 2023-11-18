@@ -18,6 +18,7 @@ use Illuminate\Support\Facades\Route;
 // Route::get('/opcion1', [controlerPrincipal::class, 'opcion1'])->name('opcion1');
 // Route::get('/opcion2', [controlerPrincipal::class, 'opcion2'])->name('opcion2');
 // Route::resource('/index', controlerPrincipal::class);
+//xssxss
 
 
 Route::get('/index', function () {
@@ -38,7 +39,7 @@ Route::get('/shop-single', function () {
 
 Route::get('/shop', function () {
     return view('shop');
-});
+
 
 
 
