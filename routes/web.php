@@ -40,6 +40,6 @@ Route::get('/shop-single', function () {
 Route::get('/shop', function () {
     return view('shop');
 
-
+});
 
 
