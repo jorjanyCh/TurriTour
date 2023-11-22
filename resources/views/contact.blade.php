@@ -193,8 +193,8 @@ https://templatemo.com/tm-559-zay-shop
         mymap.scrollWheelZoom.disable();
         mymap.touchZoom.disable();
     </script> --}}
- 
-
+  
+   
     <!-- Ena Map -->
 
     <!-- Start Contact -->
