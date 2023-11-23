@@ -26,10 +26,10 @@
                     <li><a class="text-decoration-none" href="#">Luxury</a></li>
                     <li><a class="text-decoration-none" href="#">Sport Wear</a></li>
                     <li><a class="text-decoration-none" href="#">Men's Shoes</a></li>
-                    <li><a class="text-decoration-none" href="#">Women's Shoes</a></li>
-                    <li><a class="text-decoration-none" href="#">Popular Dress</a></li>
+                    {{-- <li><a class="text-decoration-none" href="#">Women's Shoes</a></li> --}}
+                    {{-- <li><a class="text-decoration-none" href="#">Popular Dress</a></li>
                     <li><a class="text-decoration-none" href="#">Gym Accessories</a></li>
-                    <li><a class="text-decoration-none" href="#">Sport Shoes</a></li>
+                    <li><a class="text-decoration-none" href="#">Sport Shoes</a></li> --}}
                 </ul>
             </div>
 

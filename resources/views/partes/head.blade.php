@@ -13,13 +13,13 @@
             <div class="flex-fill">
                 <ul class="nav navbar-nav d-flex justify-content-between mx-lg-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="{{url('index')}}">Home</a>
+                        <a class="nav-link" href="{{url('index')}}">Inicio</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="{{url('about')}}">About</a>
+                        <a class="nav-link" href="{{url('about')}}">Nosotros</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="{{url('shop')}}">Explore Plans</a>
+                        <a class="nav-link" href="{{url('shop')}}">Paquetes</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="{{url('contact')}}">Contactanos</a>

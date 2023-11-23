@@ -50,7 +50,7 @@ https://templatemo.com/tm-559-zay-shop
 
 
     <!-- Header -->
-    @include('partes.header')
+    @include('partes.head')
     <!-- Close Header -->
 
     <!-- Modal -->
