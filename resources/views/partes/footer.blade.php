@@ -7,15 +7,15 @@
                 <ul class="list-unstyled text-light footer-link-list">
                     <li>
                         <i class="fas fa-map-marker-alt fa-fw"></i>
-                        123 Consectetur at ligula 10660
+                        Turrialba Cartago Costa Rica
                     </li>
                     <li>
                         <i class="fa fa-phone fa-fw"></i>
-                        <a class="text-decoration-none" href="tel:010-020-0340">010-020-0340</a>
+                        <a class="text-decoration-none" href="tel:010-020-0340">(+506)8514-90-03 / (+506)-2237-0511</a>
                     </li>
                     <li>
                         <i class="fa fa-envelope fa-fw"></i>
-                        <a class="text-decoration-none" href="mailto:info@company.com">info@company.com</a>
+                        <a class="text-decoration-none" href="mailto:info@company.com">turrialtours.reservas@gmail.com</a>
                     </li>
                 </ul>
             </div>
@@ -36,10 +36,10 @@
             <div class="col-md-4 pt-5">
                 <h2 class="h2 text-light border-bottom pb-3 border-light">Further Info</h2>
                 <ul class="list-unstyled text-light footer-link-list">
-                    <li><a class="text-decoration-none" href="{{url('index')}}">Home</a></li>
-                    <li><a class="text-decoration-none" href="{{url('about')}}">About Us</a></li>
-                    <li><a class="text-decoration-none" href="{{url('shop')}}">Explore Plans</a></li>
-                    <li><a class="text-decoration-none" href="{{url('contact')}}">Contact</a></li>
+                    <li><a class="text-decoration-none" href="{{url('index')}}">Inicio</a></li>
+                    <li><a class="text-decoration-none" href="{{url('about')}}">Nosotros</a></li>
+                    <li><a class="text-decoration-none" href="{{url('shop')}}">Paquetes</a></li>
+                    <li><a class="text-decoration-none" href="{{url('contact')}}">Contactanos</a></li>
                 </ul>
             </div>
 

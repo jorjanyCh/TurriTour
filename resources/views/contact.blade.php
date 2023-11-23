@@ -32,12 +32,9 @@ https://templatemo.com/tm-559-zay-shop
     <!-- Start Top Nav -->
     @include('partes.nav')
     <!-- Close Top Nav -->
-
-
     <!-- Header -->
     @include('partes.head')
     <!-- Close Header -->
-
     <!-- Modal -->
     <div class="modal fade bg-white" id="templatemo_search" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-lg" role="document">
