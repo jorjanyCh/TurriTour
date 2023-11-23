@@ -28,7 +28,7 @@ https://templatemo.com/tm-559-zay-shop
 <body>
     {{-- {{ $user }} --}}
     <!-- Start Top Nav -->
-   @include('nav')
+   @include('partes.nav')
     <!-- Close Top Nav -->
 
 
