@@ -33,8 +33,8 @@ Route::get('/contact', function () {
     return view('contact');
 });
 
-Route::get('/shop-single', function () {
-    return view('shop-single');
+Route::get('/p1', function () {
+    return view('/planes/p1');
 });
 
 Route::get('/shop', function () {
