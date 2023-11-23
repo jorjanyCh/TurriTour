@@ -80,7 +80,7 @@
             <div class="row pt-2">
                 <div class="col-12">
                     <p class="text-left text-light">
-                        Copyright &copy; 2021 TurriTour
+                        Copyright &copy; 2023 TurriTour
                         {{-- | Designed by <a rel="sponsored" href="https://templatemo.com" target="_blank">TemplateMo</a> --}}
                     </p>
                 </div>
