@@ -22,7 +22,7 @@
                         <a class="nav-link" href="{{url('shop')}}">Paquetes</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="{{url('contact')}}">Contactanos</a>
+                        <a class="nav-link" href="{{url('contact')}}">Contáctanos</a>
                     </li>
                 </ul>
             </div>

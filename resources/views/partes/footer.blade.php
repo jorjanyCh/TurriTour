@@ -39,7 +39,7 @@
                     <li><a class="text-decoration-none" href="{{url('index')}}">Inicio</a></li>
                     <li><a class="text-decoration-none" href="{{url('about')}}">Nosotros</a></li>
                     <li><a class="text-decoration-none" href="{{url('shop')}}">Paquetes</a></li>
-                    <li><a class="text-decoration-none" href="{{url('contact')}}">Contactanos</a></li>
+                    <li><a class="text-decoration-none" href="{{url('contact')}}">Contáctanos</a></li>
                 </ul>
             </div>
 

@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Contactanos</title>
+    <title>Contáctanos</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -56,10 +56,10 @@ https://templatemo.com/tm-559-zay-shop
     <!-- Start Content Page -->
     <div class="container-fluid bg-light py-5">
         <div class="col-md-6 m-auto text-center">
-            <h1 class="h1">Contactanos</h1>
+            <h1 class="h1">Contáctanos</h1>
             <p>
-                Proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                Lorem ipsum dolor sit amet.
+                Conéctate con nosotros! Estamos aquí para ayudarte y escuchar tus preguntas, 
+                comentarios o inquietudes. Para que podamos brindarte el mejor servicio posible. 
             </p>
         </div>
     </div>
@@ -140,8 +140,8 @@ https://templatemo.com/tm-559-zay-shop
                     </div>
                 </div>
                 <div class="mb-3">
-                    <label for="inputsubject">Subject</label>
-                    <input type="text" class="form-control mt-1" id="subject" name="subject" placeholder="Subject">
+                    <label for="inputsubject">Asunto</label>
+                    <input type="text" class="form-control mt-1" id="subject" name="subject" placeholder="Asunto">
                 </div>
                 <div class="mb-3">
                     <label for="inputmessage">Mensaje</label>
@@ -149,7 +149,7 @@ https://templatemo.com/tm-559-zay-shop
                 </div>
                 <div class="row">
                     <div class="col text-end mt-2">
-                        <button type="submit" class="btn btn-success btn-lg px-3">Let’s Talk</button>
+                        <button type="submit" class="btn btn-success btn-lg px-3">Enviar</button>
                     </div>
                 </div>
             </form>
