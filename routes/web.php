@@ -18,6 +18,7 @@ use Illuminate\Support\Facades\Route;
 // Route::get('/opcion1', [controlerPrincipal::class, 'opcion1'])->name('opcion1');
 // Route::get('/opcion2', [controlerPrincipal::class, 'opcion2'])->name('opcion2');
 // Route::resource('/index', controlerPrincipal::class);
+//xssxss
 
 
 Route::get('/index', function () {
@@ -32,13 +33,12 @@ Route::get('/contact', function () {
     return view('contact');
 });
 
-Route::get('/shop-single', function () {
-    return view('shop-single');
+Route::get('/p1', function () {
+    return view('/planes/p1');
 });
 
 Route::get('/shop', function () {
     return view('shop');
 });
-
 
 
