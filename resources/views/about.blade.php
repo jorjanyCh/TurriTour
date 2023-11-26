@@ -114,10 +114,7 @@ https://templatemo.com/tm-559-zay-shop
                         un recuerdo cuando visita el lugar.
                     </p>
                 </div>
-                {{-- <div class="col-md-4">
-                    <img src=alt="About Turri">
-                </div> --}}
-
+                
                 <div class="row">
                     <div class="col-lg-4 m-auto shadow"> 
                         <div style="text-align: center; margin: 0 auto; max-width: 100%;">
