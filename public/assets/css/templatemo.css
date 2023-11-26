@@ -96,18 +96,19 @@ body, ul, li, p, a, label, input, div {
 }
 .card.product-wap:hover .card .product-overlay {
   visibility: visible;
-  opacity: 1;
+  opacity: 2;
 }
 .card.product-wap a { color: #000;}
 #carousel-related-product .slick-slide:focus { outline: none !important;}
 #carousel-related-product .slick-dots li button:before {
+
   font-size: 15px;
   margin-top: 20px;
 }
 /* Brand */
 .brand-img {
-  filter: grayscale(100%);
-  opacity: 0.5;
+  filter: grayscale(0%);
+  opacity: 1;
   transition: .5s;
 }
 .brand-img:hover {
