@@ -19,7 +19,9 @@ use Illuminate\Support\Facades\Route;
 // Route::get('/opcion2', [controlerPrincipal::class, 'opcion2'])->name('opcion2');
 // Route::resource('/index', controlerPrincipal::class);
 //xssxss
-
+Route::get('/', function () {
+    return view('index');
+});
 
 Route::get('/index', function () {
     return view('index');
