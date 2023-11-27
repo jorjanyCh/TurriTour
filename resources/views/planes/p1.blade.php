@@ -31,7 +31,10 @@ https://templatemo.com/tm-559-zay-shop
 
 <body>
     <!-- Start Top Nav -->
-    <nav class="navbar navbar-expand-lg bg-dark navbar-light d-none d-lg-block" id="templatemo_nav_top">
+
+    @include('partes.nav')
+    {{-- @include('partes.head') --}}
+    {{-- <nav class="navbar navbar-expand-lg bg-dark navbar-light d-none d-lg-block" id="templatemo_nav_top">
         <div class="container text-light">
             <div class="w-100 d-flex justify-content-between">
                 <div>
@@ -48,12 +51,12 @@ https://templatemo.com/tm-559-zay-shop
                 </div>
             </div>
         </div>
-    </nav>
+    </nav> --}}
     <!-- Close Top Nav -->
 
 
     <!-- Header -->
-    <nav class="navbar navbar-expand-lg navbar-light shadow">
+    {{-- <nav class="navbar navbar-expand-lg navbar-light shadow">
         <div class="container d-flex justify-content-between align-items-center">
     
             <a class="navbar-brand text-success logo h1 align-self-center" href="index.html">
@@ -103,9 +106,12 @@ https://templatemo.com/tm-559-zay-shop
                     </a> --}}
                 </div>
             </div>
+
+
     
         </div>
-    </nav>
+    </nav> --}}
+    @include('partes.head')
     <!-- Close Header -->
 
     <!-- Modal -->
@@ -301,7 +307,11 @@ https://templatemo.com/tm-559-zay-shop
                                 </div>
                                 <div class="row pb-3">
                                     <div class="col d-grid">
-                                        <button type="submit" class="btn btn-success btn-lg" name="submit" value="buy">Contact</button>
+                                        <a class="btn btn-success btn-lg" href="https://wa.me/50687427416?text=Hola%20necesito%20informacion%20de%20" target="_blank">
+                                    
+                                        {{-- <img class="w_boton" src="assets/img/icono.png" alt="" />  --}}
+                                        <button type="button" class="btn btn-success btn-lg">Contact</button>
+                                        </a>
                                     </div>
                                     {{-- <div class="col d-grid"> 
                                         <button type="submit" class="btn btn-success btn-lg" name="submit" value="addtocard">Add To Cart</button>
@@ -792,7 +802,7 @@ https://templatemo.com/tm-559-zay-shop
 
 
     <!-- Start Footer -->
-    <footer class="bg-dark" id="tempaltemo_footer">
+    {{-- <footer class="bg-dark" id="tempaltemo_footer">
         <div class="container">
             <div class="row">
 
@@ -875,14 +885,15 @@ https://templatemo.com/tm-559-zay-shop
                     <div class="col-12">
                         <p class="text-left text-light">
                             Copyright &copy; 2021 Company Name 
-                            | Designed by <a rel="sponsored" href="https://templatemo.com" target="_blank">TemplateMo</a>
+                             Designed by <a rel="sponsored" href="https://templatemo.com" target="_blank">TemplateMo</a>
                         </p>
                     </div>
                 </div>
             </div>
         </div>
 
-    </footer>
+    </footer> --}}
+    @include('partes.footer')
     <!-- End Footer -->
 
     <!-- Start Script -->

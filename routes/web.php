@@ -63,3 +63,5 @@ Route::get('/shop', function () {
 Route::resource('admin', ControllerPaquetes::class);
 
 
+
+

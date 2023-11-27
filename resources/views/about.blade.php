@@ -61,13 +61,13 @@ https://templatemo.com/tm-559-zay-shop
                 <div class="col-md-8">
 
                     <div class="text-success">
-                        <h2>TurriTours</h2>
+                        <h2>¿Qiénes somos?</h2>
                     </div>
                     
                     <p>
-                        TurriTours es una empresa que se enfoca en brindarte diferentes opciones de turismo en costa Rica,
-                        especificamente en la zona de Turrialba. Turritours tiene como objetivo en dar a conocer las riqueza 
-                        naturales y culturales de la zona de Turrialba, promover y aprovechar todas 
+                        TurriTours es una empresa que se enfoca en brindarte diferentes opciones de turismo en Costa Rica,
+                        específicamente en la zona de Turrialba. TurriTours tiene como objetivo dar a conocer las riquezas
+                        naturales y culturales de la zona de Turrialba, promover y aprovechar todas
                         las opciones que ofrece esta zona del país.
                     </p>
                 </div>
@@ -104,7 +104,7 @@ https://templatemo.com/tm-559-zay-shop
              <div class="row align-items-center py-5">
                 <div class="col-md-8 text-dark">
                     <div class="text-success">
-                        <h2>Colaboración con negocios locales</h2>
+                        <h2>Promoción de negocios locales</h2>
                     </div>
                     
                     <p>
@@ -118,7 +118,7 @@ https://templatemo.com/tm-559-zay-shop
                 <div class="row">
                     <div class="col-lg-4 m-auto shadow"> 
                         <div style="text-align: center; margin: 0 auto; max-width: 100%;">
-                            <img src="assets/img/vturri.png"  alt="Volcano Turri"
+                            <img src="assets/img/cafe.png"  alt="Volcano Turri"
                             style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
                           </div>
                     </div>
@@ -132,7 +132,7 @@ https://templatemo.com/tm-559-zay-shop
 
                     <div class="col-lg-4 m-auto shadow"> 
                         <div style="text-align: center; margin: 0 auto; max-width: 100%; col-lg-6 m-auto">
-                          <img src="assets/img/vturri.png"  alt="Volcano Turri"
+                          <img src="assets/img/queso.png"  alt="Volcano Turri"
                           style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
                         </div>
                   </div>
@@ -230,7 +230,7 @@ https://templatemo.com/tm-559-zay-shop
                                     TurriTour Aliquam tristique nunc at semper dignissim. (beta 1). 
                                     In quis tortor eget magna faucibus rutrum. <a rel="sponsored" class="text-success" href="https://templatemo.com" target="_blank">link1</a> website. 
                                     Image credits go to <a rel="sponsored" class="text-success" href="https://stories.freepik.com/" target="_blank">link2</a>,
-                                    <a rel="sponsored" class="text-success" href="https://unsplash.com/" target="_blank">link3</a> and
+                                    <a rel="sponsored" class="text-success" href="https://www.explornatura.com/es/tours/cultura/tour-a-granja-lechera" target="_blank">link3</a> and
                                     <a rel="sponsored" class="text-success" href="https://icons8.com/" target="_blank">link4</a>.
                                 </p>
                             </div>
@@ -261,16 +261,24 @@ https://templatemo.com/tm-559-zay-shop
                 <div class="container">
                     <div class="row p-5">
                         <div class="mx-auto col-md-8 col-lg-6 order-lg-last">
-                            <img class="img-fluid" src="./assets/img/b3.png" alt="">
+                            <img class="img-fluid" src="./assets/img/lechero.png" alt="">
                         </div>
                         <div class="col-lg-6 mb-0 d-flex align-items-center">
                             <div class="text-align-left">
-                                <h1 class="h1">Repr in voluptate</h1>
-                                <h3 class="h2">Ullamco laboris nisi ut </h3>
+                                <h1 class="h1">Aprendamos juntos!!</h1>
+                                <h3 class="h2">Tour Lechero</h3>
                                 <p>
-                                    We bring you 100% free CSS templates for your websites. 
-                                    If you wish to support TemplateMo, please make a small contribution via PayPal or tell your friends about our website. Thank you.
+                                    Conocerás todo el proceso de producción de queso sostenible; desde 
+                                    las razas de vacas adecuadas para la leche, su alimentación, el proceso para el ordeño de las vacas, 
+                                    hasta cómo procesar la leche y por supuesto, degustar este delicioso queso.
+                                    <a rel="sponsored" class="text-success" href="https://www.explornatura.com/es/tours/cultura/tour-a-granja-lechera" target="Tour lechero">TOUR A UNA GRANJA LECHERA</a>
                                 </p>
+                                <div class="contenedor-imagenes">
+                                    <img src="./assets/img/muu.png" alt="vaca lechera">
+                                    <img src="./assets/img/ordeño.png" alt="ordeño">
+                                    <img src="./assets/img/queso.png" alt="queso turrialba">
+                                    <img src="./assets/img/lechero.png" alt="ato de vacas">
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -377,14 +385,14 @@ https://templatemo.com/tm-559-zay-shop
                                                 <a href="#"><img class="img-fluid brand-img" src="assets/img/bote.png" alt="Brand Logo"></a>
                                             </div>
                                             <div class="col-3 p-md-5">
-                                                <a href="#"><img class="img-fluid brand-img" src="assets/img/queso.png" alt="Brand Logo"></a>
+                                                <a href="#"><img class="img-fluid brand-img" src="assets/img/hqueso.png" alt="Brand Logo"></a>
                                             </div>
                                         </div>
                                     </div>
                                     <!--End First slide-->
 
                                     <!--Second slide-->
-                                    <div class="carousel-item">
+                                    {{-- <div class="carousel-item">
                                         <div class="row">
                                             <div class="col-3 p-md-5">
                                                 <a href="#"><img class="img-fluid brand-img" src="assets/img/1tourss.png" alt="Brand Logo"></a>
@@ -399,11 +407,11 @@ https://templatemo.com/tm-559-zay-shop
                                                 <a href="#"><img class="img-fluid brand-img" src="assets/img/1tourss.png" alt="Brand Logo"></a>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> --}}
                                     <!--End Second slide-->
 
                                     <!--Third slide-->
-                                    <div class="carousel-item">
+                                    {{-- <div class="carousel-item">
                                         <div class="row">
                                             <div class="col-3 p-md-5">
                                                 <a href="#"><img class="img-fluid brand-img" src="assets/img/volcano.png" alt="Brand Logo"></a>
@@ -418,7 +426,7 @@ https://templatemo.com/tm-559-zay-shop
                                                 <a href="#"><img class="img-fluid brand-img" src="assets/img/volcano.png" alt="Brand Logo"></a>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> --}}
                                     <!--End Third slide-->
 
                                 </div>
