@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Zay Shop - Product Detail Page</title>
+    {{-- <title>Zay Shop - Product Detail Page</title> --}}
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -55,29 +55,29 @@ https://templatemo.com/tm-559-zay-shop
     <!-- Header -->
     <nav class="navbar navbar-expand-lg navbar-light shadow">
         <div class="container d-flex justify-content-between align-items-center">
-
+    
             <a class="navbar-brand text-success logo h1 align-self-center" href="index.html">
                 TurriTour
             </a>
-
+    
             <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#templatemo_main_nav" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
-
+    
             <div class="align-self-center collapse navbar-collapse flex-fill  d-lg-flex justify-content-lg-between" id="templatemo_main_nav">
                 <div class="flex-fill">
                     <ul class="nav navbar-nav d-flex justify-content-between mx-lg-auto">
                         <li class="nav-item">
-                            <a class="nav-link" href="{{url('index')}}">Home</a>
+                            <a class="nav-link" href="{{url('index')}}">Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="{{url('about')}}">About</a>
+                            <a class="nav-link" href="{{url('about')}}">Nosotros</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="{{url('shop')}}">Explore Plans</a>
+                            <a class="nav-link" href="{{url('shop')}}">Paquetes</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="{{url('contact')}}">Contact</a>
+                            <a class="nav-link" href="{{url('contact')}}">Contáctanos</a>
                         </li>
                     </ul>
                 </div>
@@ -93,17 +93,17 @@ https://templatemo.com/tm-559-zay-shop
                     <a class="nav-icon d-none d-lg-inline" href="#" data-bs-toggle="modal" data-bs-target="#templatemo_search">
                         <i class="fa fa-fw fa-search text-dark mr-2"></i>
                     </a>
-                    <a class="nav-icon position-relative text-decoration-none" href="#">
+                    {{-- <a class="nav-icon position-relative text-decoration-none" href="#">
                         <i class="fa fa-fw fa-cart-arrow-down text-dark mr-1"></i>
                         <span class="position-absolute top-0 left-100 translate-middle badge rounded-pill bg-light text-dark">7</span>
-                    </a>
-                    <a class="nav-icon position-relative text-decoration-none" href="#">
+                    </a> --}}
+                    {{-- <a class="nav-icon position-relative text-decoration-none" href="#">
                         <i class="fa fa-fw fa-user text-dark mr-3"></i>
                         <span class="position-absolute top-0 left-100 translate-middle badge rounded-pill bg-light text-dark">+99</span>
-                    </a>
+                    </a> --}}
                 </div>
             </div>
-
+    
         </div>
     </nav>
     <!-- Close Header -->
@@ -133,7 +133,7 @@ https://templatemo.com/tm-559-zay-shop
             <div class="row">
                 <div class="col-lg-5 mt-5">
                     <div class="card mb-3">
-                        <img class="card-img img-fluid" src="assets/img/p3.jpg" alt="Card image cap" id="product-detail">
+                        <img class="card-img img-fluid" src="assets/img/para1.jpg" alt="Card image cap" id="product-detail">
                     </div>
                     <div class="row">
                         <!--Start Controls-->
@@ -154,17 +154,17 @@ https://templatemo.com/tm-559-zay-shop
                                     <div class="row">
                                         <div class="col-4">
                                             <a href="#">
-                                                <img class="card-img img-fluid" src="assets/img/p1.jpg" alt="Product Image 1">
+                                                <img class="card-img img-fluid" src="assets/img/vt1.jpg" alt="Product Image 1">
                                             </a>
                                         </div>
                                         <div class="col-4">
                                             <a href="#">
-                                                <img class="card-img img-fluid" src="assets/img/p2.jpg" alt="Product Image 2">
+                                                <img class="card-img img-fluid" src="assets/img/para2.jpg" alt="Product Image 2">
                                             </a>
                                         </div>
                                         <div class="col-4">
                                             <a href="#">
-                                                <img class="card-img img-fluid" src="assets/img/p4.jpg" alt="Product Image 3">
+                                                <img class="card-img img-fluid" src="assets/img/para3.jpg" alt="Product Image 3">
                                             </a>
                                         </div>
                                     </div>
@@ -176,7 +176,7 @@ https://templatemo.com/tm-559-zay-shop
                                     <div class="row">
                                         <div class="col-4">
                                             <a href="#">
-                                                <img class="card-img img-fluid" src="assets/img/p3.jpg" alt="Product Image 4">
+                                                <img class="card-img img-fluid" src="assets/img/mg.jpg" alt="Product Image 4">
                                             </a>
                                         </div>
                                         {{-- <div class="col-4"> 
@@ -232,22 +232,22 @@ https://templatemo.com/tm-559-zay-shop
                 <div class="col-lg-7 mt-5">
                     <div class="card">
                         <div class="card-body">
-                            <h1 class="h2">Plan 1</h1>
-                            <p class="h3 py-2">$25.00</p>
+                            <h1 class="h2">Turri en las alturas</h1>
+                            <p class="h3 py-2">₡62500</p>
                             <p class="py-2">
                                 <i class="fa fa-star text-warning"></i>
                                 <i class="fa fa-star text-warning"></i>
                                 <i class="fa fa-star text-warning"></i>
                                 <i class="fa fa-star text-warning"></i>
-                                <i class="fa fa-star text-secondary"></i>
-                                <span class="list-inline-item text-dark">Rating 4.8 | 36 Comments</span>
+                                <i class="fa fa-star text-warning"></i>
+                                {{-- <span class="list-inline-item text-dark">Rating 4.8 | 36 Comments</span> --}}
                             </p>
                             <ul class="list-inline">
                                 <li class="list-inline-item">
                                     {{-- <h6>Brand:</h6> --}}
                                 </li>
                                 <li class="list-inline-item">
-                                    <p class="text-muted"><strong>The favorite of many</strong></p>
+                                    <p class="text-muted"><strong>A high-altitude adventure</strong></p>
                                 </li>
                             </ul>
 
