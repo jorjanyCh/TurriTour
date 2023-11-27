@@ -12,7 +12,7 @@ class ControllerPaquetes extends Controller
      */
     public function index()
     {
-        //
+        return view("admin.index");
     }
 
     /**
@@ -20,7 +20,7 @@ class ControllerPaquetes extends Controller
      */
     public function create()
     {
-        //
+        return "crear";
     }
 
     /**
@@ -28,7 +28,7 @@ class ControllerPaquetes extends Controller
      */
     public function store(Request $request)
     {
-        //
+        return "store";
     }
 
     /**
@@ -36,7 +36,7 @@ class ControllerPaquetes extends Controller
      */
     public function show(string $id)
     {
-        //
+        return "mostrar";
     }
 
     /**
@@ -44,7 +44,7 @@ class ControllerPaquetes extends Controller
      */
     public function edit(string $id)
     {
-        //
+        return "editar";
     }
 
     /**
@@ -52,7 +52,7 @@ class ControllerPaquetes extends Controller
      */
     public function update(Request $request, string $id)
     {
-        //
+        return "actuarizar";
     }
 
     /**
@@ -60,6 +60,6 @@ class ControllerPaquetes extends Controller
      */
     public function destroy(string $id)
     {
-        //
+        return "eliminar";
     }
 }
