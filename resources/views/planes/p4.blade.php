@@ -276,7 +276,11 @@ https://templatemo.com/tm-559-zay-shop
                                 </div>
                                 <div class="row pb-3">
                                     <div class="col d-grid">
-                                        <button type="submit" class="btn btn-success btn-lg" name="submit" value="buy">Contact</button>
+                                        <a class="btn btn-success btn-lg" href="https://wa.me/50687427416?text=Hola%20necesito%20informacion%20de%20" target="_blank">
+                                    
+                                            {{-- <img class="w_boton" src="assets/img/icono.png" alt="" />  --}}
+                                            <button type="button" class="btn btn-success btn-lg">Contact</button>
+                                            </a>
                                     </div>
                                     
                                 </div>
