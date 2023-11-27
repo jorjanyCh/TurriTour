@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="apple-touch-icon" href="assets/img/apple-icon.png">
+    <link rel="apple-touch-icon" href="assets/img/apple-icon.png"> 
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -135,7 +135,7 @@ https://templatemo.com/tm-559-zay-shop
 
 
     <!-- Start Categories of The Month -->
-    <section class="container py-5">
+    {{-- <section class="container py-5"> 
         <div class="row text-center pt-3">
             <div class="col-lg-6 m-auto">
                 <h1 class="h1">Categories of The Month</h1>
@@ -162,7 +162,7 @@ https://templatemo.com/tm-559-zay-shop
                 <p class="text-center"><a class="btn btn-success">Go Shop</a></p>
             </div>
         </div>
-    </section>
+    </section>--}}
     <!-- End Categories of The Month -->
 
 
@@ -182,7 +182,7 @@ https://templatemo.com/tm-559-zay-shop
                 <div class="col-12 col-md-4 mb-4">
                     <div class="card h-100">
                         <a href="{{url('p1')}}">
-                            <img src="./assets/img/i1.jpg" class="card-img-top" alt="...">
+                            <img src="./assets/img/para1.jpg" class="card-img-top" alt="...">
                         </a>
                         <div class="card-body">
                             <ul class="list-unstyled d-flex justify-content-between">
@@ -190,14 +190,20 @@ https://templatemo.com/tm-559-zay-shop
                                     <i class="text-warning fa fa-star"></i>
                                     <i class="text-warning fa fa-star"></i>
                                     <i class="text-warning fa fa-star"></i>
+                                    <i class="text-warning fa fa-star"></i>
+                                    <i class="text-warning fa fa-star"></i>
+                                    {{-- <i class="text-warning fa fa-star"></i> 
+                                    <i class="text-warning fa fa-star"></i>
+                                    <i class="text-warning fa fa-star"></i>
                                     <i class="text-muted fa fa-star"></i>
-                                    <i class="text-muted fa fa-star"></i>
+                                    <i class="text-muted fa fa-star"></i>--}}
                                 </li>
-                                <li class="text-muted text-right">$240.00</li>
+                                <li class="text-muted text-right">₡62500</li>
                             </ul>
-                            <a href="shop-single.html" class="h2 text-decoration-none text-dark">PLAN 1</a>
+                            <a href="shop-single.html" class="h2 text-decoration-none text-dark">Turri en las alturas
+                            </a>
                             <p class="card-text">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt in culpa qui officia deserunt.
+                                Volcán Turrialba, parapente, monumento guayabo, transporte 
                             </p>
                             <p class="text-muted">Reviews (24)</p>
                         </div>
@@ -205,8 +211,8 @@ https://templatemo.com/tm-559-zay-shop
                 </div>
                 <div class="col-12 col-md-4 mb-4">
                     <div class="card h-100">
-                        <a href="shop-single.html">
-                            <img src="./assets/img/i2.jpg" class="card-img-top" alt="...">
+                        <a href="{{url('p2')}}">
+                            <img src="./assets/img/tc1.jpg" class="card-img-top" alt="...">
                         </a>
                         <div class="card-body">
                             <ul class="list-unstyled d-flex justify-content-between">
@@ -214,14 +220,14 @@ https://templatemo.com/tm-559-zay-shop
                                     <i class="text-warning fa fa-star"></i>
                                     <i class="text-warning fa fa-star"></i>
                                     <i class="text-warning fa fa-star"></i>
-                                    <i class="text-muted fa fa-star"></i>
-                                    <i class="text-muted fa fa-star"></i>
+                                    <i class="text-warning fa fa-star"></i>
+                                    <i class="text-warning fa fa-star"></i>
                                 </li>
-                                <li class="text-muted text-right">$480.00</li>
+                                <li class="text-muted text-right">₡25500</li>
                             </ul>
-                            <a href="shop-single.html" class="h2 text-decoration-none text-dark">PLAN 2</a>
+                            <a href="shop-single.html" class="h2 text-decoration-none text-dark">Turri complete</a>
                             <p class="card-text">
-                                Aenean gravida dignissim finibus. Nullam ipsum diam, posuere vitae pharetra sed, commodo ullamcorper.
+                                Volcán Turrialba, cataratas, tour lechero, transporte
                             </p>
                             <p class="text-muted">Reviews (48)</p>
                         </div>
@@ -229,8 +235,8 @@ https://templatemo.com/tm-559-zay-shop
                 </div>
                 <div class="col-12 col-md-4 mb-4">
                     <div class="card h-100">
-                        <a href="shop-single.html">
-                            <img src="./assets/img/i3.jpg" class="card-img-top" alt="...">
+                        <a href="{{url('p3')}}">
+                            <img src="./assets/img/Amoj1.jpg" class="card-img-top" alt="...">
                         </a>
                         <div class="card-body">
                             <ul class="list-unstyled d-flex justify-content-between">
@@ -241,16 +247,64 @@ https://templatemo.com/tm-559-zay-shop
                                     <i class="text-warning fa fa-star"></i>
                                     <i class="text-warning fa fa-star"></i>
                                 </li>
-                                <li class="text-muted text-right">$360.00</li>
+                                <li class="text-muted text-right">₡47500</li>
                             </ul>
-                            <a href="shop-single.html" class="h2 text-decoration-none text-dark">PLAN 2</a>
+                            <a href="shop-single.html" class="h2 text-decoration-none text-dark">Una aventura mojada al extremo</a>
                             <p class="card-text">
-                                Curabitur ac mi sit amet diam luctus porta. Phasellus pulvinar sagittis diam, et scelerisque ipsum lobortis nec.
+                                Catarata, Rafting, transporte
                             </p>
                             <p class="text-muted">Reviews (74)</p>
                         </div>
                     </div>
                 </div>
+                <div class="col-12 col-md-4 mb-4">
+                    <div class="card h-100">
+                        <a href="{{url('p4')}}">
+                            <img src="./assets/img/tl2.jpg" class="card-img-top" alt="...">
+                        </a>
+                        <div class="card-body">
+                            <ul class="list-unstyled d-flex justify-content-between">
+                                <li>
+                                    <i class="text-warning fa fa-star"></i>
+                                    <i class="text-warning fa fa-star"></i>
+                                    <i class="text-warning fa fa-star"></i>
+                                    <i class="text-warning fa fa-star"></i>
+                                    <i class="text-warning fa fa-star"></i>
+                                </li>
+                                <li class="text-muted text-right">₡62000</li>
+                            </ul>
+                            <a href="shop-single.html" class="h2 text-decoration-none text-dark">Vuelo lechero</a>
+                            <p class="card-text">
+                                Tour lechero, parapente, transporte
+                            </p>
+                            <p class="text-muted">Reviews (74)</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-4 mb-4">
+                    <div class="card h-100">
+                        <a href="{{url('p5')}}">
+                            <img src="./assets/img/r1.jpg" class="card-img-top" alt="...">
+                        </a>
+                        <div class="card-body">
+                            <ul class="list-unstyled d-flex justify-content-between">
+                                <li>
+                                    <i class="text-warning fa fa-star"></i>
+                                    <i class="text-warning fa fa-star"></i>
+                                    <i class="text-warning fa fa-star"></i>
+                                    <i class="text-warning fa fa-star"></i>
+                                    <i class="text-warning fa fa-star"></i>
+                                </li>
+                                <li class="text-muted text-right">₡46000</li>
+                            </ul>
+                            <a href="shop-single.html" class="h2 text-decoration-none text-dark">Guayabo Raft</a>
+                            <p class="card-text">
+                                Monumento guayabo, rafting, transporte
+                            </p>
+                            <p class="text-muted">Reviews (74)</p>
+                        </div>
+                    </div>
+                </div>              
             </div>
         </div>
     </section>

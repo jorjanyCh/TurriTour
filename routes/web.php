@@ -19,7 +19,9 @@ use Illuminate\Support\Facades\Route;
 // Route::get('/opcion2', [controlerPrincipal::class, 'opcion2'])->name('opcion2');
 // Route::resource('/index', controlerPrincipal::class);
 //xssxss
-
+Route::get('/', function () {
+    return view('index');
+});
 
 Route::get('/index', function () {
     return view('index');
@@ -35,6 +37,22 @@ Route::get('/contact', function () {
 
 Route::get('/p1', function () {
     return view('/planes/p1');
+});
+
+Route::get('/p2', function () {
+    return view('/planes/p2');
+});
+
+Route::get('/p3', function () {
+    return view('/planes/p3');
+});
+
+Route::get('/p4', function () {
+    return view('/planes/p4');
+});
+
+Route::get('/p5', function () {
+    return view('/planes/p5');
 });
 
 Route::get('/shop', function () {
