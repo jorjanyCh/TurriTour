@@ -31,7 +31,10 @@ https://templatemo.com/tm-559-zay-shop
 
 <body>
     <!-- Start Top Nav -->
-    <nav class="navbar navbar-expand-lg bg-dark navbar-light d-none d-lg-block" id="templatemo_nav_top">
+
+    @include('partes.nav')
+    {{-- @include('partes.head') --}}
+    {{-- <nav class="navbar navbar-expand-lg bg-dark navbar-light d-none d-lg-block" id="templatemo_nav_top">
         <div class="container text-light">
             <div class="w-100 d-flex justify-content-between">
                 <div>
@@ -48,12 +51,12 @@ https://templatemo.com/tm-559-zay-shop
                 </div>
             </div>
         </div>
-    </nav>
+    </nav> --}}
     <!-- Close Top Nav -->
 
 
     <!-- Header -->
-    <nav class="navbar navbar-expand-lg navbar-light shadow">
+    {{-- <nav class="navbar navbar-expand-lg navbar-light shadow">
         <div class="container d-flex justify-content-between align-items-center">
 
             <a class="navbar-brand text-success logo h1 align-self-center" href="index.html">
@@ -104,8 +107,10 @@ https://templatemo.com/tm-559-zay-shop
                 </div>
             </div>
 
+
         </div>
-    </nav>
+    </nav> --}}
+    @include('partes.head')
     <!-- Close Header -->
 
     <!-- Modal -->
@@ -792,7 +797,7 @@ https://templatemo.com/tm-559-zay-shop
 
 
     <!-- Start Footer -->
-    <footer class="bg-dark" id="tempaltemo_footer">
+    {{-- <footer class="bg-dark" id="tempaltemo_footer">
         <div class="container">
             <div class="row">
 
@@ -882,7 +887,8 @@ https://templatemo.com/tm-559-zay-shop
             </div>
         </div>
 
-    </footer>
+    </footer> --}}
+    @include('partes.footer')
     <!-- End Footer -->
 
     <!-- Start Script -->

@@ -190,3 +190,42 @@ body, ul, li, p, a, label, input, div {
 
 /* Extra large devices (large desktops, 1200px and up)*/
 @media (min-width: 1200px) {}
+
+
+
+
+/*Ultimo agregado, tour lechero*/
+.contenedor-imagenes {
+  margin: 10px;
+}
+
+.contenedor-imagenes img {
+  width: 200px; /* Ajusta el tamaño de las imágenes según sea necesario */
+  height: auto;
+  margin: 10px; /* Ajusta el margen entre las imágenes según sea necesario */
+  cursor: pointer;
+  transition: transform 0.3s ease-in-out;
+}
+
+.contenedor-imagenes img:hover {
+  transform: scale(1.2); /* Ajusta el nivel de agrandamiento al hacer hover */
+}
+
+.imagen-modal {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.8);
+  justify-content: center;
+  align-items: center;
+  z-index: 1; /* Asegura que el modal esté sobre las demás imágenes */
+}
+
+.imagen-modal img {
+  width: 80%;
+  height: auto;
+  cursor: pointer;
+}
