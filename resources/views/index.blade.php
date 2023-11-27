@@ -182,7 +182,7 @@ https://templatemo.com/tm-559-zay-shop
                 <div class="col-12 col-md-4 mb-4">
                     <div class="card h-100">
                         <a href="{{url('p1')}}">
-                            <img src="./assets/img/i1.jpg" class="card-img-top" alt="...">
+                            <img src="./assets/img/para1.jpg" class="card-img-top" alt="...">
                         </a>
                         <div class="card-body">
                             <ul class="list-unstyled d-flex justify-content-between">
@@ -190,8 +190,13 @@ https://templatemo.com/tm-559-zay-shop
                                     <i class="text-warning fa fa-star"></i>
                                     <i class="text-warning fa fa-star"></i>
                                     <i class="text-warning fa fa-star"></i>
+                                    <i class="text-warning fa fa-star"></i>
+                                    <i class="text-warning fa fa-star"></i>
+                                    {{-- <i class="text-warning fa fa-star"></i> 
+                                    <i class="text-warning fa fa-star"></i>
+                                    <i class="text-warning fa fa-star"></i>
                                     <i class="text-muted fa fa-star"></i>
-                                    <i class="text-muted fa fa-star"></i>
+                                    <i class="text-muted fa fa-star"></i>--}}
                                 </li>
                                 <li class="text-muted text-right">₡62500</li>
                             </ul>
@@ -206,8 +211,8 @@ https://templatemo.com/tm-559-zay-shop
                 </div>
                 <div class="col-12 col-md-4 mb-4">
                     <div class="card h-100">
-                        <a href="shop-single.html">
-                            <img src="./assets/img/i2.jpg" class="card-img-top" alt="...">
+                        <a href="{{url('p2')}}">
+                            <img src="./assets/img/tc1.jpg" class="card-img-top" alt="...">
                         </a>
                         <div class="card-body">
                             <ul class="list-unstyled d-flex justify-content-between">
@@ -215,8 +220,8 @@ https://templatemo.com/tm-559-zay-shop
                                     <i class="text-warning fa fa-star"></i>
                                     <i class="text-warning fa fa-star"></i>
                                     <i class="text-warning fa fa-star"></i>
-                                    <i class="text-muted fa fa-star"></i>
-                                    <i class="text-muted fa fa-star"></i>
+                                    <i class="text-warning fa fa-star"></i>
+                                    <i class="text-warning fa fa-star"></i>
                                 </li>
                                 <li class="text-muted text-right">₡25500</li>
                             </ul>
@@ -230,8 +235,8 @@ https://templatemo.com/tm-559-zay-shop
                 </div>
                 <div class="col-12 col-md-4 mb-4">
                     <div class="card h-100">
-                        <a href="shop-single.html">
-                            <img src="./assets/img/i3.jpg" class="card-img-top" alt="...">
+                        <a href="{{url('p3')}}">
+                            <img src="./assets/img/Amoj1.jpg" class="card-img-top" alt="...">
                         </a>
                         <div class="card-body">
                             <ul class="list-unstyled d-flex justify-content-between">
@@ -254,8 +259,8 @@ https://templatemo.com/tm-559-zay-shop
                 </div>
                 <div class="col-12 col-md-4 mb-4">
                     <div class="card h-100">
-                        <a href="shop-single.html">
-                            <img src="./assets/img/i3.jpg" class="card-img-top" alt="...">
+                        <a href="{{url('p4')}}">
+                            <img src="./assets/img/tl2.jpg" class="card-img-top" alt="...">
                         </a>
                         <div class="card-body">
                             <ul class="list-unstyled d-flex justify-content-between">
@@ -278,8 +283,8 @@ https://templatemo.com/tm-559-zay-shop
                 </div>
                 <div class="col-12 col-md-4 mb-4">
                     <div class="card h-100">
-                        <a href="shop-single.html">
-                            <img src="./assets/img/i3.jpg" class="card-img-top" alt="...">
+                        <a href="{{url('p5')}}">
+                            <img src="./assets/img/r1.jpg" class="card-img-top" alt="...">
                         </a>
                         <div class="card-body">
                             <ul class="list-unstyled d-flex justify-content-between">
