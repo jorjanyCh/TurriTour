@@ -249,7 +249,20 @@ https://templatemo.com/tm-559-zay-shop
                             </ul>
 
                             <h6>Description:</h6>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temp incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse. Donec condimentum elementum convallis. Nunc sed orci a diam ultrices aliquet interdum quis nulla.</p>
+                            <p>
+                            Experimenta lo mejor de dos mundos con nuestro Plan "Vuelo lechero" en Costa Rica! Comienza tu día sumergiéndote 
+                            en la autenticidad rural con nuestro tour lechero. Descubre el encanto de la vida en la granja, participa en la ordeña y degusta 
+                            productos lácteos frescos mientras te sumerges en la cultura local.
+                            </p>
+                            <p>
+                            Luego, eleva tu espíritu a nuevas alturas con una emocionante sesión de parapente en las colinas de Turrialba. 
+                            Sobrevuela los paisajes espectaculares y siente la emoción del viento en tu rostro mientras disfrutas de vistas p
+                            anorámicas incomparables.
+                            </p>
+                            <p>   
+                            Este plan ofrece la combinación perfecta de la autenticidad de la vida rural y la emoción de la aventura en el cielo. 
+                            ¡Prepárate para un día lleno de experiencias únicas y memorias que te llevarás contigo para siempre en esta joya escondida de Costa Rica!   
+                            </p>
                             {{-- <ul class="list-inline">
                                 <li class="list-inline-item">
                                     <h6>Avaliable Color :</h6>

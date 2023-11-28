@@ -243,7 +243,20 @@ https://templatemo.com/tm-559-zay-shop
                             </ul>
 
                             <h6>Description:</h6>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temp incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse. Donec condimentum elementum convallis. Nunc sed orci a diam ultrices aliquet interdum quis nulla.</p>
+                            <p>
+                            ¡Vive una experiencia emocionante con nuestro Plan "Una aventura mojada al extremo" que combina la majestuosidad de las 
+                            cataratas con la adrenalina del rafting! Comienza tu día explorando las impresionantes cataratas locales, donde la 
+                            naturaleza deslumbra con su esplendor y la frescura del agua crea un ambiente rejuvenecedor.
+                            </p>
+                            <p>
+                            Luego, sumérgete en la emoción del rafting mientras desciendes por rápidos emocionantes en los ríos cercanos. Guiados por 
+                            expertos en rafting, experimentarás la emoción de las aguas rápidas en medio de un paisaje impresionante.
+                            </p>
+                            <p>
+                            Este plan no solo te permite conectarte con la naturaleza a través de las cataratas, sino que también te desafía con la 
+                            emoción del rafting. ¡Prepárate para un día lleno de aventuras acuáticas y recuerdos inolvidables en el corazón de la 
+                            naturaleza salvaje!
+                            </p>
                             {{-- <ul class="list-inline">
                                 <li class="list-inline-item">
                                     <h6>Avaliable Color :</h6>

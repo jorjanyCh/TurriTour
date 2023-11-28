@@ -258,7 +258,20 @@ https://templatemo.com/tm-559-zay-shop
                             </ul>
 
                             <h6>Description:</h6>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temp incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse. Donec condimentum elementum convallis. Nunc sed orci a diam ultrices aliquet interdum quis nulla.</p>
+                            <p>
+                            ¡Explora Costa Rica con nuestro emocionante Plan de Aventura "Aire Puro y Riqueza Histórica"! 
+                            Sobrevuela el impresionante paisaje costarricense con una emocionante sesión de parapente, 
+                            donde la adrenalina se combina con vistas panorámicas que quitan el aliento.
+                            </p>
+                            <p>
+                            Después, te llevaremos a las faldas del majestuoso volcán Turrialba, donde podrás admirar su imponente presencia 
+                            y explorar los alrededores. Sumérgete en la historia en el Monumento Nacional Guayabo, una antigua ciudad precolombina 
+                            que revela los misterios de la civilización indígena que habitó la región.
+                            </p>
+                            <p>
+                            Este plan ofrece una combinación única de aventura, naturaleza y cultura, proporcionando una experiencia integral que te 
+                            dejará con recuerdos duraderos. ¡Prepárate para un día lleno de emociones y descubrimientos en el corazón de Costa Rica!
+                            </p>
                             {{-- <ul class="list-inline">
                                 <li class="list-inline-item">
                                     <h6>Avaliable Color :</h6>
