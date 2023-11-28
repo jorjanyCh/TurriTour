@@ -83,14 +83,14 @@ https://templatemo.com/tm-559-zay-shop
 
                     <div class="col-lg-4 m-auto shadow"> 
                           <div style="text-align: center; margin: 0 auto; max-width: 100%; col-lg-6 m-auto">
-                            <img src="assets/img/cafe.png"  alt="Volcano Turri"
+                            <img src="assets/img/women.png"  alt="Volcano Turri"
                             style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
                           </div>
                     </div>
 
                     <div class="col-lg-4 m-auto shadow"> 
                         <div style="text-align: center; margin: 0 auto; max-width: 100%; col-lg-6 m-auto">
-                          <img src="assets/img/cafe.png"  alt="Volcano Turri"
+                          <img src="assets/img/esencia.png"  alt="Volcano Turri"
                           style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
                         </div>
                   </div>
@@ -118,21 +118,21 @@ https://templatemo.com/tm-559-zay-shop
                 <div class="row">
                     <div class="col-lg-4 m-auto shadow"> 
                         <div style="text-align: center; margin: 0 auto; max-width: 100%;">
-                            <img src="assets/img/cafe.png"  alt="Volcano Turri"
+                            <img src="assets/img/s3.png"  alt="Volcano Turri"
                             style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
                           </div>
                     </div>
 
                     <div class="col-lg-4 m-auto shadow"> 
                           <div style="text-align: center; margin: 0 auto; max-width: 100%; col-lg-6 m-auto">
-                            <img src="assets/img/vturri.png"  alt="Volcano Turri"
+                            <img src="assets/img/s2.png"  alt="Volcano Turri"
                             style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
                           </div>
                     </div>
 
                     <div class="col-lg-4 m-auto shadow"> 
                         <div style="text-align: center; margin: 0 auto; max-width: 100%; col-lg-6 m-auto">
-                          <img src="assets/img/queso.png"  alt="Volcano Turri"
+                          <img src="assets/img/s1.png"  alt="Volcano Turri"
                           style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
                         </div>
                   </div>
@@ -147,14 +147,16 @@ https://templatemo.com/tm-559-zay-shop
 
 
                     <div class="text-success">
-                        <h2>Más...</h2>
+                        <h2>Turismo Local</h2>
                     </div>
                     
                     <p>
-                        TurriTours apoya los emprendimientos locales con el fin de poder aportar a la economia 
-                        de esta zona del país, dichas colaboraciones se dará con restaurantes o sodas locales, también 
-                        con tiendas de Souvenirs meramentes locales para que el turista se pueda llevar 
-                        un recuerdo cuando visita el lugar.
+                        Ante la evolución del turista que adopta un perfil cada vez más digital, es recomendable que los municipios
+                         dispongan de propuestas digitales para atraer al turista.
+
+                       En caso de los turistas locales, existe la posibilidad de que ya conozcan el municipio. Por esto, es necesario
+                        encontrar nuevos atractivos turísticos que inviten a repetir la visita y re-descubrir su patrimonio, cultura 
+                        o entorno natural. 
                     </p>
                 </div>
                 {{-- <div class="col-md-4">
@@ -164,21 +166,21 @@ https://templatemo.com/tm-559-zay-shop
                 <div class="row">
                     <div class="col-lg-4 m-auto shadow"> 
                         <div style="text-align: center; margin: 0 auto; max-width: 100%;">
-                            <img src="assets/img/queso.png"  alt="Volcano Turri"
+                            <img src="assets/img/t1.png"  alt="Volcano Turri"
                             style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
                           </div>
                     </div>
 
                     <div class="col-lg-4 m-auto shadow"> 
                           <div style="text-align: center; margin: 0 auto; max-width: 100%; col-lg-6 m-auto">
-                            <img src="assets/img/queso.png"  alt="Volcano Turri"
+                            <img src="assets/img/t2.png"  alt="Volcano Turri"
                             style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
                           </div>
                     </div>
 
                     <div class="col-lg-4 m-auto shadow"> 
                         <div style="text-align: center; margin: 0 auto; max-width: 100%; col-lg-6 m-auto">
-                          <img src="assets/img/queso.png"  alt="Volcano Turri"
+                          <img src="assets/img/t3.png"  alt="Volcano Turri"
                           style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
                         </div>
                   </div>
@@ -219,7 +221,7 @@ https://templatemo.com/tm-559-zay-shop
                 <div class="container">
                     <div class="row p-5">
                         <div class="mx-auto col-md-8 col-lg-6 order-lg-last">
-                            <img class="img-fluid" src="./assets/img/Nature.png" alt="">
+                            <img class="img-fluid" src="./assets/img/welcome.png" alt="">
                         </div>
                         <div class="col-lg-6 mb-0 d-flex align-items-center">
                             <div class="text-align-left align-self-center">
@@ -227,11 +229,10 @@ https://templatemo.com/tm-559-zay-shop
                                     <br>
                                 <h3 class="h3">Ven y conectate con la naturaleza</h3>
                                 <p>
-                                    TurriTour Aliquam tristique nunc at semper dignissim. (beta 1). 
-                                    In quis tortor eget magna faucibus rutrum. <a rel="sponsored" class="text-success" href="https://templatemo.com" target="_blank">link1</a> website. 
-                                    Image credits go to <a rel="sponsored" class="text-success" href="https://stories.freepik.com/" target="_blank">link2</a>,
-                                    <a rel="sponsored" class="text-success" href="https://www.explornatura.com/es/tours/cultura/tour-a-granja-lechera" target="_blank">link3</a> and
-                                    <a rel="sponsored" class="text-success" href="https://icons8.com/" target="_blank">link4</a>.
+                                    TurriTour te conecta con nuestra naturaleza, podemos rajar que tenemos el 6 % 
+                                     <a rel="sponsored" class="text-success" href="https://www.youtube.com/watch?v=LXb3EKWsInQ" target="_blank">Costa Rica 4K</a> website. 
+                                    Image credits go to <a rel="sponsored" class="text-success" href="https://www.youtube.com/watch?v=lukhHCnnjqI" target="_blank">Volcan Turrialba</a>,
+
                                 </p>
                             </div>
                         </div>
@@ -246,11 +247,11 @@ https://templatemo.com/tm-559-zay-shop
                         </div>
                         <div class="col-lg-6 mb-0 d-flex align-items-center">
                             <div class="text-align-left">
-                                <h1 class="h1">Proident occaecat</h1>
-                                <h3 class="h2">Aliquip ex ea commodo consequat</h3>
+                                <h1 class="h1">Vistamiento de Aves </h1>
+                                <h3 class="h2">Según datos del ICT en Costa Rica existen más de 900 especies de aves registradas</h3>
                                 <p>
-                                    You are permitted to use this Zay CSS template for your commercial websites. 
-                                    You are <strong>not permitted</strong> to re-distribute the template ZIP file in any kind of template collection websites.
+                                    Más de 800 especies de aves permanecen todo el año en territorio nacional, ocupando diversos ecosistemas en las zonas de vida del país 
+                                    
                                 </p>
                             </div>
                         </div>
@@ -271,13 +272,15 @@ https://templatemo.com/tm-559-zay-shop
                                     Conocerás todo el proceso de producción de queso sostenible; desde 
                                     las razas de vacas adecuadas para la leche, su alimentación, el proceso para el ordeño de las vacas, 
                                     hasta cómo procesar la leche y por supuesto, degustar este delicioso queso.
-                                    <a rel="sponsored" class="text-success" href="https://www.explornatura.com/es/tours/cultura/tour-a-granja-lechera" target="Tour lechero">TOUR A UNA GRANJA LECHERA</a>
+                                    <a rel="sponsored" class="text-success" href="https://www.youtube.com/watch?v=HY8zQ-btBew" target="Tour lechero">TOUR A UNA GRANJA LECHERA</a>
                                 </p>
+
                                 <div class="contenedor-imagenes">
                                     <img src="./assets/img/muu.png" alt="vaca lechera">
                                     <img src="./assets/img/ordeño.png" alt="ordeño">
                                     <img src="./assets/img/queso.png" alt="queso turrialba">
                                     <img src="./assets/img/lechero.png" alt="ato de vacas">
+                                    
                                 </div>
                             </div>
                         </div>
@@ -312,31 +315,35 @@ https://templatemo.com/tm-559-zay-shop
 
             <div class="col-md-6 col-lg-3 pb-5">
                 <div class="h-100 py-5 services-icon-wap shadow">
-                    <div class="h1 text-success text-center"><i class="fa fa-truck fa-lg"></i></div>
-                    <h2 class="h5 mt-4 text-center">Delivery Services</h2>
+                    <div class="h1 text-success text-center"><a href="#"><img class="img-fluid brand-img" src="assets/img/Parapente.png" alt="Brand Logo"></a>
+                    </div>
+                    <h2 class="h5 mt-4 text-center">Parapente</h2>
                 </div>
             </div>
 
             <div class="col-md-6 col-lg-3 pb-5">
                 <div class="h-100 py-5 services-icon-wap shadow">
-                    <div class="h1 text-success text-center"><i class="fas fa-exchange-alt"></i></div>
-                    <h2 class="h5 mt-4 text-center">Shipping & Return</h2>
+                    <div class="h1 text-success text-center"><a href="#"><img class="img-fluid brand-img" src="assets/img/Rafting.png" alt="Brand Logo"></a>
+                    </div>
+                    <h2 class="h5 mt-4 text-center">Rafting</h2>
                 </div>
             </div>
 
             <div class="col-md-6 col-lg-3 pb-5">
                 <div class="h-100 py-5 services-icon-wap shadow">
-                    <div class="h1 text-success text-center"><i class="fa fa-percent"></i></div>
-                    <h2 class="h5 mt-4 text-center">Promotion</h2>
+                    <div class="h1 text-success text-center"><a href="#"><img class="img-fluid brand-img" src="assets/img/hqueso.png" alt="Brand Logo"></a>
+                    </div>
+                    <h2 class="h5 mt-4 text-center">Tour lechero</h2>
                 </div>
             </div>
 
             <div class="col-md-6 col-lg-3 pb-5">
                 <div class="h-100 py-5 services-icon-wap shadow">
 
-                    <div class="h1 text-success text-center"><i class="fa fa-user"></i></div>
-                    
-                    <h2 class="h5 mt-4 text-center">24 Hours Service</h2>
+                    <div class="h1 text-success text-center">
+                        <a href="#"><img class="img-fluid brand-img" src="assets/img/welcome.png" alt="Brand Logo"></a>
+                    </div>
+                    <h2 class="h5 mt-4 text-center">Caminata al volcan</h2>
                 </div>
             </div> 
 
@@ -346,7 +353,7 @@ https://templatemo.com/tm-559-zay-shop
     </section>
     <!-- End Section -->
 
-    <!-- Start Brands -->
+    {{-- <!-- Start Brands -->
     <section class="bg-light py-5">
         <div class="container my-4">
             <div class="row text-center py-3">
@@ -376,10 +383,10 @@ https://templatemo.com/tm-559-zay-shop
                                     <div class="carousel-item active">
                                         <div class="row">
                                             <div class="col-3 p-md-5">
-                                                <a href="#"><i class="fa fa-map" aria-hidden="true"></i></a>
+                                                <a href="#"><img class="img-fluid brand-img" src="assets/img/hqueso.png" alt="Brand Logo"></a>
                                             </div>
                                             <div class="col-3 p-md-5">
-                                                <a href="#"><i class="fa fa-heart" aria-hidden="true"></i></a>
+                                                <a href="#"><img class="img-fluid brand-img" src="assets/img/hqueso.png" alt="Brand Logo"></a>
                                             </div>
                                             <div class="col-3 p-md-5">
                                                 <a href="#"><img class="img-fluid brand-img" src="assets/img/bote.png" alt="Brand Logo"></a>
@@ -392,7 +399,7 @@ https://templatemo.com/tm-559-zay-shop
                                     <!--End First slide-->
 
                                     <!--Second slide-->
-                                    {{-- <div class="carousel-item">
+                                     <div class="carousel-item">
                                         <div class="row">
                                             <div class="col-3 p-md-5">
                                                 <a href="#"><img class="img-fluid brand-img" src="assets/img/1tourss.png" alt="Brand Logo"></a>
@@ -407,7 +414,7 @@ https://templatemo.com/tm-559-zay-shop
                                                 <a href="#"><img class="img-fluid brand-img" src="assets/img/1tourss.png" alt="Brand Logo"></a>
                                             </div>
                                         </div>
-                                    </div> --}}
+                                    </div> 
                                     <!--End Second slide-->
 
                                     <!--Third slide-->
@@ -429,7 +436,7 @@ https://templatemo.com/tm-559-zay-shop
                                     </div> --}}
                                     <!--End Third slide-->
 
-                                </div>
+                                {{-- </div>
                                 <!--End Slides-->
                             </div>
                         </div>
@@ -446,7 +453,7 @@ https://templatemo.com/tm-559-zay-shop
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}} 
     <!--End Brands-->
 
 

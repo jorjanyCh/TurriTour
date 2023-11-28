@@ -13,13 +13,14 @@
             <div class="flex-fill">
                 <ul class="nav navbar-nav d-flex justify-content-between mx-lg-auto">
                     <li class="nav-item">
+                        {{-- Nav-link para guiar a paquetes --}}
                         <a class="nav-link" href="{{url('index')}}">Inicio</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="{{url('about')}}">Nosotros</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="{{url('shop')}}">Paquetes</a>
+                        <a class="nav-link" href="{{url('shop')}}">Turrialba Pura vida</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="{{url('contact')}}">Contáctanos</a>
