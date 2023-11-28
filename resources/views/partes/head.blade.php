@@ -3,7 +3,7 @@
 
         <a class="navbar-brand text-success logo h1" href="index">
                 <img src="./assets/img/turricon.jpg" class="img-fluid" alt="..." style="width: 20%; height: 20%;">
-                TurriTour
+                TurriTours
         </a>
 
         <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#templatemo_main_nav" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -37,7 +37,7 @@
                         </div>
                     </div>
                 </div>
-                <a class="nav-icon d-none d-lg-inline" href="#" data-bs-toggle="modal" data-bs-target="#templatemo_search">
+                <a class="nav-icon d-none d-lg-inline" href="{{'index' }}" data-bs-toggle="modal" data-bs-target="#templatemo_search">
                     <i class="fa fa-fw fa-search text-dark mr-2"></i>
                 </a>
                 {{-- <a class="nav-icon position-relative text-decoration-none" href="#">

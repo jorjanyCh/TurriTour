@@ -3,7 +3,7 @@
         <div class="row">
 
             <div class="col-md-4 pt-5">
-                <h2 class="h2 text-success border-bottom pb-3 border-light logo">TurriTour</h2>
+                <h2 class="h2 text-success border-bottom pb-3 border-light logo">TurriTours</h2>
                 <ul class="list-unstyled text-light footer-link-list">
                     <li>
                         <i class="fas fa-map-marker-alt fa-fw"></i>
@@ -23,7 +23,7 @@
             <div class="col-md-4 pt-5">
                 <h2 class="h2 text-light border-bottom pb-3 border-light">Nosotros</h2>
                 <ul class="list-unstyled text-light footer-link-list">
-                    <li><a class="text-decoration-none" href="#">¿Qiénes somos?</a></li>
+                    <li><a class="text-decoration-none" href="#">¿Quiénes somos?</a></li>
                     <li><a class="text-decoration-none" href="#">Promoción de negocios locales</a></li>
                     <li><a class="text-decoration-none" href="#">Más..</a></li>
                     {{-- <li><a class="text-decoration-none" href="#">Women's Shoes</a></li> --}}
@@ -65,11 +65,16 @@
                         <a class="text-light text-decoration-none" target="_blank" href="https://web.whatsapp.com/"><i class="fab fa-whatsapp"></i></a>
                     </li>
 
-
-
                     <li class="list-inline-item border border-light rounded-circle  text-center">
-                        <a class="text-light text-decoration-none" target="_blank" href="https://www.youtube.com/watch?v=hvyPe_yPKGA"><img class="img-fluid brand-img" src="assets/img/esencia.png" alt="Brand Logo"></i></a>
+                        <a class="text-light text-decoration-none" target="_blank" href="https://www.ict.go.cr/flipbook/guias/PDF/TURRIALBA.pdf"><img class="img-fluid brand-img" src="assets/img/Logo-ict.png" alt="ITC Logo"></i></a>
                     </li>
+
+                    <li class="list-inline-item border border-light   text-center">
+                        <a class="text-light text-decoration-none" target="_blank" href="https://siquirres.ucr.ac.cr/"><img class="img-fluid brand-img" src="assets/img/ucr1.png" alt="UCR Logo"></i></a>
+                    </li>
+
+
+
                 </ul>
             </div>
             {{-- <div class="col-auto">
@@ -80,6 +85,7 @@
                 </div>
             </div> --}}
         </div>
+
     </div>
 
     <div class="w-100 bg-black py-3">

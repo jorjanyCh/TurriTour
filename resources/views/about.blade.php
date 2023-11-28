@@ -61,7 +61,7 @@ https://templatemo.com/tm-559-zay-shop
                 <div class="col-md-8">
 
                     <div class="text-success">
-                        <h2>¿Qiénes somos?</h2>
+                        <h2>¿Quiénes somos?</h2>
                     </div>
                     
                     <p>
@@ -225,13 +225,13 @@ https://templatemo.com/tm-559-zay-shop
                         </div>
                         <div class="col-lg-6 mb-0 d-flex align-items-center">
                             <div class="text-align-left align-self-center">
-                                <h1 class="h1 text-success"><b>TurriTour</b> 
+                                <h1 class="h1 text-success"><b>TurriTours</b> 
                                     <br>
                                 <h3 class="h3">Ven y conectate con la naturaleza</h3>
                                 <p>
-                                    TurriTour te conecta con nuestra naturaleza, podemos rajar que tenemos el 6 % 
-                                     <a rel="sponsored" class="text-success" href="https://www.youtube.com/watch?v=LXb3EKWsInQ" target="_blank">Costa Rica 4K</a> website. 
-                                    Image credits go to <a rel="sponsored" class="text-success" href="https://www.youtube.com/watch?v=lukhHCnnjqI" target="_blank">Volcan Turrialba</a>,
+                                    TurriTour te conecta con nuestra naturaleza, podemos rajar que tenemos el 6 % de Biodiversidad del mundo.
+                                     <a rel="sponsored" class="text-success" href="https://www.youtube.com/watch?v=LXb3EKWsInQ" target="_blank">Costa Rica 4K</a> 
+                                     <a rel="sponsored" class="text-success" href="https://www.youtube.com/watch?v=lukhHCnnjqI" target="_blank">Volcan Turrialba</a>
 
                                 </p>
                             </div>
@@ -251,8 +251,8 @@ https://templatemo.com/tm-559-zay-shop
                                 <h3 class="h2">Según datos del ICT en Costa Rica existen más de 900 especies de aves registradas</h3>
                                 <p>
                                     Más de 800 especies de aves permanecen todo el año en territorio nacional, ocupando diversos ecosistemas en las zonas de vida del país 
+                                    <a rel="sponsored" class="text-success" href="https://www.muniturrialba.go.cr/docs/turismo/Guia%20de%20Aves%20de%20Turrialba%202020.pdf" target="_blank">Aves de Costa Rica</a>,
                                     
-                                </p>
                             </div>
                         </div>
                     </div>
@@ -305,7 +305,7 @@ https://templatemo.com/tm-559-zay-shop
     <section class="container py-5">
         <div class="row text-center pt-5 pb-3">
             <div class="col-lg-6 m-auto">
-                <h1 class="h1">Actividades que podes hacer nosotros</h1>
+                <h1 class="h1">Actividades que podes hacer con nosotros</h1>
                 <p>
                     Contamos con una gran variedad de actividades para que puedas disfrutar y conocer de lo hermoso que es este lugar en Costa Rica.
                 </p>
@@ -343,7 +343,7 @@ https://templatemo.com/tm-559-zay-shop
                     <div class="h1 text-success text-center">
                         <a href="#"><img class="img-fluid brand-img" src="assets/img/welcome.png" alt="Brand Logo"></a>
                     </div>
-                    <h2 class="h5 mt-4 text-center">Caminata al volcan</h2>
+                    <h2 class="h5 mt-4 text-center">Caminata al volcán</h2>
                 </div>
             </div> 
 

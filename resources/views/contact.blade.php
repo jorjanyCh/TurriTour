@@ -58,7 +58,7 @@ https://templatemo.com/tm-559-zay-shop
         <div class="col-md-6 m-auto text-center">
             <h1 class="h1">Contáctanos</h1>
             <p>
-                Conéctate con nosotros! Estamos aquí para ayudarte y escuchar tus preguntas, 
+                Contáctese con nosotros! Estamos aquí para ayudarte y escuchar tus preguntas, 
                 comentarios o inquietudes. Para que podamos brindarte el mejor servicio posible. 
             </p>
         </div>

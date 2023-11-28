@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Paquetes</title>
+    <title>Turrialba Pura vida</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -63,7 +63,7 @@ https://templatemo.com/tm-559-zay-shop
             <div class="col-md-8">
 
                 <div class="text-dark">
-                    <h3>¿Por qué visitar Turrialba?</h3>
+                    <h2>¿Por qué visitar Turrialba?</h2>
                     <div><br></div>
                     
                 </div>
@@ -72,7 +72,7 @@ https://templatemo.com/tm-559-zay-shop
                     
                     Turrialba es el cantón número 5 de la provincia de Cartago en Costa Rica, y es uno de los más extensos y hermosos del país.
                      Es además, una pequeña y encantadora ciudad a 53 km al este de la capital, San José.Se caracteriza como en la mayoría
-                     del país por sus habitantes muy serviciales y trabajadores. Para poder llegar a este lugar existen varias viías de acceso.
+                     del país por sus habitantes muy serviciales y trabajadores. Para poder llegar a este lugar existen varias vías de acceso.
                     </p>
                      
             </div>
@@ -133,7 +133,7 @@ https://templatemo.com/tm-559-zay-shop
 
         <div class="card">
             <div class="card-header text-success">
-                <h5 class="card-title">Elevación máxima de 3340 m s.n.m</h5>
+                <h5 class="card-title">Elevación máxima de 3340 ms.n.m</h5>
             </div>
             <div class="card-body">
                 <div style="text-align: center; margin: 0 auto; max-width: 100%;">
@@ -149,15 +149,14 @@ https://templatemo.com/tm-559-zay-shop
     
 
 </div>
-                
-
-                <p>
+        
+                     <p>
                     
                     Su formación se debe a eventos explosivos y efusivos de lavas, presenta tres cráteres con presencia
                      de coladas en sus flancos.  En sus laderas se desarrollaron dos posibles conos:
                      <a rel="sponsored" class="text-success" href="https://mapcarta.com/es/37126530" target="_blank">Cerro Tiendilla</a>
                       a 2971 m s.n.m. y el Armado a 2750 m s.n.m., donde es posible encontrar dos
-                       zonas de vida, según la clasificación de Holdridge: Bosque Húmedo Tropical y Bosque Premontano muy Húmedo.
+                       zonas de vida, según la clasificación de Holdridge: Bosque Húmedo Tropical y Bosque Premontano muy húmedo.
                     </p>
                      
             </div>
@@ -165,13 +164,18 @@ https://templatemo.com/tm-559-zay-shop
 <div><br></div>
 
             <div class="text-success">
-                <h3>Rafting en el río Pacuare un día desde Turrialba</h3>
+                <h3>Rafting en el río Pacuare, Turrialba</h3>
             </div>
 
             <p>
-                Realice un viaje de rafting en aguas bravas por el río Pacuare con un guía profesional para guiarlo.
-                 Recorrerás alrededor de 29 kilómetros, conquistando una variedad de rápidos que 
-                 van desde la clase II hasta la clase. 
+                
+                 Si le gusta la aventura y la adrenalina,
+                 haga rafting en los ríos Pacuare y
+                 Pejivalle. Estos dos ríos son famosos
+                 en todo el mundo y se utilizan a veces
+                 como campos de entrenamiento para
+                 las carreras de clase mundial de rafting
+                 y kayak. 
             </p>
            
 
@@ -206,35 +210,37 @@ https://templatemo.com/tm-559-zay-shop
          <div class="row align-items-center py-5">
             <div class="col-md-8 text-dark">
                 <div class="text-dark">
-                    <h2>Promoción de negocios locales</h2>
+                    <h2>Fabricación del queso</h2>
                 </div>
                 
                 <p>
-                    TurriTours apoya los emprendimientos locales con el fin de poder aportar a la economia 
-                    de esta zona del país, dichas colaboraciones se dará con restaurantes o sodas locales, también 
-                    con tiendas de Souvenirs meramentes locales para que el turista se pueda llevar 
-                    un recuerdo cuando visita el lugar.
+                    Se combina la técnica transmitida de generación en generación, práctica que ha acompañado el
+                    desarrollo económico de la zona y además, base fundamental de la economía familiar de muchas
+                    comunidades.
+
+                    El queso Turrialba, además de ser un producto de consumo, ha sido un
+                    elemento identitario que es reconocido por muchos dentro y fuera de Turrialba.
                 </p>
             </div>
             
             <div class="row">
                 <div class="col-lg-4 m-auto shadow"> 
                     <div style="text-align: center; margin: 0 auto; max-width: 100%;">
-                        <img src="assets/img/s1.png"  alt="Volcano Turri"
+                        <img src="assets/img/qs1.png"  alt="Volcano Turri"
                         style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
                       </div>
                 </div>
 
                 <div class="col-lg-4 m-auto shadow"> 
                       <div style="text-align: center; margin: 0 auto; max-width: 100%; col-lg-6 m-auto">
-                        <img src="assets/img/s2.png"  alt="Volcano Turri"
+                        <img src="assets/img/qs2.png"  alt="Volcano Turri"
                         style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
                       </div>
                 </div>
 
                 <div class="col-lg-4 m-auto shadow"> 
                     <div style="text-align: center; margin: 0 auto; max-width: 100%; col-lg-6 m-auto">
-                      <img src="assets/img/s3.png"  alt="Volcano Turri"
+                      <img src="assets/img/qs3.png"  alt="Volcano Turri"
                       style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
                     </div>
               </div>
@@ -248,39 +254,44 @@ https://templatemo.com/tm-559-zay-shop
             <div class="col-md-8 text-dark">
 
 
-                <div class="text-success">
-                    <h2>Más...</h2>
+                <div class="text-dark">
+                    <h2>Gastronomía</h2>
                 </div>
+
                 
                 <p>
-                    TurriTours apoya los emprendimientos locales con el fin de poder aportar a la economia 
-                    de esta zona del país, dichas colaboraciones se dará con restaurantes o sodas locales, también 
-                    con tiendas de Souvenirs meramentes locales para que el turista se pueda llevar 
-                    un recuerdo cuando visita el lugar.
+                    Turrialba, el valle de la buena cuchara, forma parte de la región culinaria del Valle Central.
+                     Sus platillos reúnen una gran variedad de opciones gastronómicas con un intenso mestizaje, 
+                     cuyo gusto y sabor están marcados por su entorno tropical y sus costumbre agrícolas;
+                      resultado de la posición geográfica y estratégica de nuestro país, de la variedad
+                       de flora y fauna y del desarrollo sociocultural, representado en su herencia indígena,
+                        oriental y afrocaribeña.
                 </p>
             </div>
             {{-- <div class="col-md-4">
                 <img src=alt="About Turri">
             </div> --}}
 
+            <div><br></div>
+
             <div class="row">
                 <div class="col-lg-4 m-auto shadow"> 
                     <div style="text-align: center; margin: 0 auto; max-width: 100%;">
-                        <img src="assets/img/queso.png"  alt="Volcano Turri"
+                        <img src="assets/img/g3.png"  alt="Volcano Turri"
                         style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
                       </div>
                 </div>
 
                 <div class="col-lg-4 m-auto shadow"> 
                       <div style="text-align: center; margin: 0 auto; max-width: 100%; col-lg-6 m-auto">
-                        <img src="assets/img/queso.png"  alt="Volcano Turri"
+                        <img src="assets/img/g1.png"  alt="Volcano Turri"
                         style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
                       </div>
                 </div>
 
                 <div class="col-lg-4 m-auto shadow"> 
                     <div style="text-align: center; margin: 0 auto; max-width: 100%; col-lg-6 m-auto">
-                      <img src="assets/img/queso.png"  alt="Volcano Turri"
+                      <img src="assets/img/g2.png"  alt="Volcano Turri"
                       style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
                     </div>
               </div>
@@ -288,18 +299,10 @@ https://templatemo.com/tm-559-zay-shop
 
             </div>
         </div>
-
-
-
-       
-
-
+ 
                  {{-- END DE PARRAFOS ACERCA DE NOSOTROS--}}
 
 
-   
-
-    
     <!-- Start Footer -->
     @include('partes.footer')
     <!-- End Footer -->

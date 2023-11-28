@@ -76,11 +76,10 @@ https://templatemo.com/tm-559-zay-shop
                                 <h1 class="h1 text-success"><b>TurriTour</b> Portal de Viajes:</h1>
                                 {{-- <h3 class="h2">Sobre Turrialba</h3> --}}
                                 <p>
-                                    Turrialba, ubicada en la provincia de Cartago, es una joya escondida en el corazón de Costa Rica que atrae a los amantes de la naturaleza y la aventura. Conocida por su impresionante entorno natural y su rica herencia cultural, esta región ofrece a los visitantes una experiencia única y auténtica. <a rel="sponsored" class="text-success" href="https://templatemo.com" target="_blank">link1</a> website. 
-                                    Image credits go to <a rel="sponsored" class="text-success" href="https://stories.freepik.com/" target="_blank">link2</a>,
-                                    <a rel="sponsored" class="text-success" href="https://unsplash.com/" target="_blank">link3</a> and
-                                    <a rel="sponsored" class="text-success" href="https://icons8.com/" target="_blank">link4</a>.
-                                </p>
+                                    Turrialba, ubicada en la provincia de Cartago, es una joya escondida en el corazón de Costa Rica
+                                    que atrae a los amantes de la naturaleza y la aventura. Conocida por su impresionante entorno natural
+                                     y su rica herencia cultural, esta región ofrece a los visitantes una experiencia única y auténtica.
+                                      <a rel="sponsored" class="text-success" href="https://templatemo.com" target="_blank">Turrialba</a>
                             </div>
                         </div>
                     </div>
@@ -95,10 +94,16 @@ https://templatemo.com/tm-559-zay-shop
                         <div class="col-lg-6 mb-0 d-flex align-items-center">
                             <div class="text-align-left">
                                 {{-- <h1 class="h1">Proident occaecat</h1> --}}
-                                <h3 class="h2">Sobre el Turismo de la zona</h3>
+
+                                <div class="text-dark">
+                                    <h3 class="text-dark">Sobre el Turismo de la zona</h3>
+                                </div>
+                               
                                 <p>
-                                    El turismo en Turrialba se destaca por su enfoque en el ecoturismo y el turismo de aventura. Los majestuosos paisajes que rodean la ciudad, dominados por el imponente volcán Turrialba, brindan oportunidades inigualables para practicar actividades al aire libre. 
-                                    You are <strong>not permitted</strong> to re-distribute the template ZIP file in any kind of template collection websites.
+                                    El turismo en Turrialba se destaca por su enfoque en el ecoturismo y el turismo de aventura.
+                                     Los majestuosos paisajes que rodean la ciudad, dominados por el imponente volcán Turrialba, 
+                                     brindan oportunidades inigualables para practicar actividades al aire libre. 
+                                    
                                 </p>
                             </div>
                         </div>
@@ -114,10 +119,15 @@ https://templatemo.com/tm-559-zay-shop
                         <div class="col-lg-6 mb-0 d-flex align-items-center">
                             <div class="text-align-left">
                                 {{-- <h1 class="h1">Repr in voluptate</h1> --}}
-                                <h3 class="h2">Sobre el Turismo de la zona</h3>
+                                <div class="text-dark">
+                                    <h3 class="text-dark">Aventuras en Rafting</h3>
+                                </div>
+
+                                
                                 <p>
-                                    Emocionantes excursiones de senderismo hasta apasionantes recorridos en kayak por el río Pacuare, los visitantes pueden sumergirse en la belleza natural mientras disfrutan de una dosis saludable de adrenalina.
-                                    If you wish to support TemplateMo, please make a small contribution via PayPal or tell your friends about our website. Thank you.
+                                    Emocionantes excursiones de senderismo hasta apasionantes recorridos en kayak por el río Pacuare, 
+                                    los visitantes pueden sumergirse en la belleza natural mientras disfrutan de una dosis saludable de adrenalina.
+                                  
                                 </p>
                             </div>
                         </div>
@@ -167,8 +177,8 @@ https://templatemo.com/tm-559-zay-shop
     <section class="bg-light">
         <div class="container py-5">
             <div class="row text-center py-3">
-                <div class="col-lg-12 m-auto">
-                    <h1 class="h2">Sobre nuestros planes</h1>
+                <div class="col-lg-12 m-auto ">
+                    <h1 class= "h2">Sobre nuestros planes</h1>
                     <p class="text-align-left">
                         En TurriTour, no solo te ofrecemos planes de viaje; te ofrecemos la oportunidad de crear recuerdos inolvidables. 
                         Empieza a planificar tu próximo viaje con nosotros y descubre un mundo de posibilidades. 
