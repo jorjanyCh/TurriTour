@@ -248,7 +248,22 @@ https://templatemo.com/tm-559-zay-shop
                             </ul>
 
                             <h6>Description:</h6>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temp incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse. Donec condimentum elementum convallis. Nunc sed orci a diam ultrices aliquet interdum quis nulla.</p>
+                            <p>                               
+                            ¡Embárcate en una jornada inolvidable con nuestro Plan "Complete" en Costa Rica! 
+                            Comienza tu día explorando la majestuosidad natural de las impresionantes cataratas locales, donde el rugir del agua y la 
+                            exuberante vegetación te sumergirán en un paraíso tropical.
+                            </p>
+                            <p>   
+                            Luego, dirígete a las faldas del imponente volcán Turrialba, donde podrás admirar la grandeza de esta maravilla natural y 
+                            disfrutar de vistas panorámicas que te dejarán sin aliento.
+                            </p>
+                            <p>   
+                            Para completar tu experiencia, sumérgete en la autenticidad costarricense con nuestro tour lechero. Descubre el fascinante 
+                            proceso de producción de lácteos, participa en actividades prácticas y degusta productos frescos directamente de la fuente.
+                            </p>
+                            <p>   
+                            Este plan ofrece una combinación perfecta de la belleza natural, la aventura volcánica y la autenticidad local. ¡Prepárate para un día lleno de maravillas y descubrimientos en la diversa tierra de Costa Rica!
+                            </p>
                             {{-- <ul class="list-inline">
                                 <li class="list-inline-item">
                                     <h6>Avaliable Color :</h6>
