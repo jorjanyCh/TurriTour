@@ -34,11 +34,11 @@
             </div>
 
             <div class="col-md-4 pt-5">
-                <h2 class="h2 text-light border-bottom pb-3 border-light">Further Info</h2>
+                <h2 class="h2 text-light border-bottom pb-3 border-light">Navegaciónn</h2>
                 <ul class="list-unstyled text-light footer-link-list">
                     <li><a class="text-decoration-none" href="{{url('index')}}">Inicio</a></li>
                     <li><a class="text-decoration-none" href="{{url('about')}}">Nosotros</a></li>
-                    <li><a class="text-decoration-none" href="{{url('shop')}}">Paquetes</a></li>
+                    <li><a class="text-decoration-none" href="{{url('shop')}}">Aprendamos de Turrialba</a></li>
                     <li><a class="text-decoration-none" href="{{url('contact')}}">Contáctanos</a></li>
                 </ul>
             </div>
@@ -58,20 +58,27 @@
                         <a class="text-light text-decoration-none" target="_blank" href="https://www.instagram.com/"><i class="fab fa-instagram fa-lg fa-fw"></i></a>
                     </li>
                     <li class="list-inline-item border border-light rounded-circle text-center">
-                        <a class="text-light text-decoration-none" target="_blank" href="https://twitter.com/"><i class="fab fa-twitter fa-lg fa-fw"></i></a>
+                        <a class="text-light text-decoration-none" target="_blank" href="https://www.tiktok.com/"><i class="fab fa-tiktok"></i></a>
                     </li>
                     <li class="list-inline-item border border-light rounded-circle text-center">
-                        <a class="text-light text-decoration-none" target="_blank" href="https://www.linkedin.com/"><i class="fab fa-linkedin fa-lg fa-fw"></i></a>
+                        {{-- <a class="text-light text-decoration-none" target="_blank" href="https://web.whatsapp.com/"><img class="img-fluid brand-img" src="assets/img/w.png" alt="Brand Logo"></i></a> --}}
+                        <a class="text-light text-decoration-none" target="_blank" href="https://web.whatsapp.com/"><i class="fab fa-whatsapp"></i></a>
+                    </li>
+
+
+
+                    <li class="list-inline-item border border-light rounded-circle  text-center">
+                        <a class="text-light text-decoration-none" target="_blank" href="https://www.youtube.com/watch?v=hvyPe_yPKGA"><img class="img-fluid brand-img" src="assets/img/esencia.png" alt="Brand Logo"></i></a>
                     </li>
                 </ul>
             </div>
-            <div class="col-auto">
+            {{-- <div class="col-auto">
                 <label class="sr-only" for="subscribeEmail">Email address</label>
                 <div class="input-group mb-2">
                     <input type="text" class="form-control bg-dark border-light" id="subscribeEmail" placeholder="Email address">
                     <div class="input-group-text btn-success text-light">Subscribe</div>
                 </div>
-            </div>
+            </div> --}}
         </div>
     </div>
 

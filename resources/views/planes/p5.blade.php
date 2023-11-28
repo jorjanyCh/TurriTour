@@ -56,9 +56,10 @@ https://templatemo.com/tm-559-zay-shop
     <nav class="navbar navbar-expand-lg navbar-light shadow">
         <div class="container d-flex justify-content-between align-items-center">
     
-            <a class="navbar-brand text-success logo h1 align-self-center" href="index.html">
+            <a class="navbar-brand text-success logo h1" href="index">
+                <img src="./assets/img/turricon.jpg" class="img-fluid" alt="..." style="width: 20%; height: 20%;">
                 TurriTour
-            </a>
+        </a>
     
             <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#templatemo_main_nav" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -179,6 +180,16 @@ https://templatemo.com/tm-559-zay-shop
                                                 <img class="card-img img-fluid" src="assets/img/r1.jpg" alt="Product Image 5">
                                             </a>
                                         </div>
+                                        <div class="col-4"> 
+                                            <a href="#">
+                                                <img class="card-img img-fluid" src="assets/img/m1.jpg" alt="Product Image 5">
+                                            </a>
+                                        </div>
+                                        <div class="col-4"> 
+                                            <a href="#">
+                                                <img class="card-img img-fluid" src="assets/img/m2.jpg" alt="Product Image 5">
+                                            </a>
+                                        </div>
                                     </div>
                                 </div>
                                 <!--/.Second slide-->
@@ -242,7 +253,19 @@ https://templatemo.com/tm-559-zay-shop
                             </ul>
 
                             <h6>Description:</h6>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temp incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse. Donec condimentum elementum convallis. Nunc sed orci a diam ultrices aliquet interdum quis nulla.</p>
+                            <p>
+                            ¡Descubre la esencia auténtica de Turrialba con nuestro emocionante plan "Cultura Precolombina y Emoción Acuática" en Costa Rica! 
+                            Comienza tu día explorando el misterioso Monumento Nacional Guayabo, una ventana al pasado precolombino de la región. 
+                            Sumérgete en la rica historia de esta antigua ciudad y despierta tu curiosidad arqueológica.
+                            </p>
+                            <p>
+                            Luego, prepárate para una dosis de adrenalina con una emocionante sesión de rafting en los ríos cercanos. 
+                            Desciende por rápidos emocionantes mientras te sumerges en la belleza natural que rodea Turrialba.
+                            </p>
+                            <p>  
+                            Este plan ofrece una combinación única de cultura e aventura, proporcionándote una experiencia completa en una de las regiones 
+                            más fascinantes de Costa Rica. ¡Prepárate para un día lleno de descubrimientos históricos y emociones acuáticas en Turrialba!
+                            </p>
                             {{-- <ul class="list-inline">
                                 <li class="list-inline-item">
                                     <h6>Avaliable Color :</h6>
