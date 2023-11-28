@@ -34,7 +34,7 @@
             </div>
 
             <div class="col-md-4 pt-5">
-                <h2 class="h2 text-light border-bottom pb-3 border-light">Navegaciónn</h2>
+                <h2 class="h2 text-light border-bottom pb-3 border-light">Navegación</h2>
                 <ul class="list-unstyled text-light footer-link-list">
                     <li><a class="text-decoration-none" href="{{url('index')}}">Inicio</a></li>
                     <li><a class="text-decoration-none" href="{{url('about')}}">Nosotros</a></li>
