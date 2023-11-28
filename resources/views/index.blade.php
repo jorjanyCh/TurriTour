@@ -167,11 +167,12 @@ https://templatemo.com/tm-559-zay-shop
     <section class="bg-light">
         <div class="container py-5">
             <div class="row text-center py-3">
-                <div class="col-lg-6 m-auto">
+                <div class="col-lg-12 m-auto">
                     <h1 class="h2">Sobre nuestros planes</h1>
-                    <p>
-                        Reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                        Excepteur sint occaecat cupidatat non proident.
+                    <p class="text-align-left">
+                        En TurriTour, no solo te ofrecemos planes de viaje; te ofrecemos la oportunidad de crear recuerdos inolvidables. 
+                        Empieza a planificar tu próximo viaje con nosotros y descubre un mundo de posibilidades. 
+                        ¡Gracias por considerarnos como tu compañero de viaje!
                     </p>
                 </div>
             </div>
