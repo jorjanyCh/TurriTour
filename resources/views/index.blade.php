@@ -13,6 +13,8 @@
     <link rel="stylesheet" href="assets/css/templatemo.css">
     <link rel="stylesheet" href="assets/css/custom.css">
 
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
     <!-- Load fonts style after rendering the layout styles -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;700;900&display=swap">
     <link rel="stylesheet" href="assets/css/fontawesome.min.css">
@@ -72,10 +74,9 @@ https://templatemo.com/tm-559-zay-shop
                         <div class="col-lg-6 mb-0 d-flex align-items-center">
                             <div class="text-align-left align-self-center">
                                 <h1 class="h1 text-success"><b>TurriTour</b> Portal de Viajes:</h1>
-                                <h3 class="h2">Pellentesque vehicula erat libero, vitae semper dui elementum ac</h3>
+                                {{-- <h3 class="h2">Sobre Turrialba</h3> --}}
                                 <p>
-                                    TurriTour Aliquam tristique nunc at semper dignissim. (beta 1). 
-                                    In quis tortor eget magna faucibus rutrum. <a rel="sponsored" class="text-success" href="https://templatemo.com" target="_blank">link1</a> website. 
+                                    Turrialba, ubicada en la provincia de Cartago, es una joya escondida en el corazón de Costa Rica que atrae a los amantes de la naturaleza y la aventura. Conocida por su impresionante entorno natural y su rica herencia cultural, esta región ofrece a los visitantes una experiencia única y auténtica. <a rel="sponsored" class="text-success" href="https://templatemo.com" target="_blank">link1</a> website. 
                                     Image credits go to <a rel="sponsored" class="text-success" href="https://stories.freepik.com/" target="_blank">link2</a>,
                                     <a rel="sponsored" class="text-success" href="https://unsplash.com/" target="_blank">link3</a> and
                                     <a rel="sponsored" class="text-success" href="https://icons8.com/" target="_blank">link4</a>.
@@ -93,10 +94,10 @@ https://templatemo.com/tm-559-zay-shop
                         </div>
                         <div class="col-lg-6 mb-0 d-flex align-items-center">
                             <div class="text-align-left">
-                                <h1 class="h1">Proident occaecat</h1>
-                                <h3 class="h2">Aliquip ex ea commodo consequat</h3>
+                                {{-- <h1 class="h1">Proident occaecat</h1> --}}
+                                <h3 class="h2">Sobre el Turismo de la zona</h3>
                                 <p>
-                                    You are permitted to use this Zay CSS template for your commercial websites. 
+                                    El turismo en Turrialba se destaca por su enfoque en el ecoturismo y el turismo de aventura. Los majestuosos paisajes que rodean la ciudad, dominados por el imponente volcán Turrialba, brindan oportunidades inigualables para practicar actividades al aire libre. 
                                     You are <strong>not permitted</strong> to re-distribute the template ZIP file in any kind of template collection websites.
                                 </p>
                             </div>
@@ -112,10 +113,10 @@ https://templatemo.com/tm-559-zay-shop
                         </div>
                         <div class="col-lg-6 mb-0 d-flex align-items-center">
                             <div class="text-align-left">
-                                <h1 class="h1">Repr in voluptate</h1>
-                                <h3 class="h2">Ullamco laboris nisi ut </h3>
+                                {{-- <h1 class="h1">Repr in voluptate</h1> --}}
+                                <h3 class="h2">Sobre el Turismo de la zona</h3>
                                 <p>
-                                    We bring you 100% free CSS templates for your websites. 
+                                    Emocionantes excursiones de senderismo hasta apasionantes recorridos en kayak por el río Pacuare, los visitantes pueden sumergirse en la belleza natural mientras disfrutan de una dosis saludable de adrenalina.
                                     If you wish to support TemplateMo, please make a small contribution via PayPal or tell your friends about our website. Thank you.
                                 </p>
                             </div>
@@ -135,34 +136,30 @@ https://templatemo.com/tm-559-zay-shop
 
 
     <!-- Start Categories of The Month -->
-    {{-- <section class="container py-5"> 
-        <div class="row text-center pt-3">
-            <div class="col-lg-6 m-auto">
-                <h1 class="h1">Categories of The Month</h1>
-                <p>
-                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-                    deserunt mollit anim id est laborum.
+    <section class="container py-5"> 
+        <div class="row text-center pt-4">
+            <div class="col-lg-8 m-auto">
+                <h3 class="h2">Turrialba un destino turístico completo</h3>
+                    <p class="text-left">
+                    Turrialba, ubicada en la provincia de Cartago, es una joya escondida en el corazón de Costa Rica que atrae a los amantes de la naturaleza y la aventura. 
+                    Conocida por su impresionante entorno natural y su rica herencia cultural, esta región ofrece a los visitantes una experiencia única y auténtica.
+                </p>
+                    <p class="text-left">
+                    El turismo en Turrialba se destaca por su enfoque en el ecoturismo y el turismo de aventura. Los majestuosos paisajes que rodean la ciudad, dominados por el imponente volcán Turrialba, 
+                    brindan oportunidades inigualables para practicar actividades al aire libre. Desde emocionantes excursiones de senderismo hasta apasionantes recorridos en kayak por el río Pacuare, 
+                    los visitantes pueden sumergirse en la belleza natural mientras disfrutan de una dosis saludable de adrenalina.
+                </p>
+                    <p class="text-left">   
+                    El volcán Turrialba, aunque activo, ofrece fascinantes oportunidades para la observación de aves y la exploración de su entorno. Los amantes de la ecología disfrutarán 
+                    de la diversidad de flora y fauna que caracteriza a la región, mientras que los aventureros pueden optar por descender por sus laderas en una experiencia de rappel única.
+                </p>
+                    <p class="text-left">
+                    Además de su entorno natural, Turrialba también alberga tesoros culturales. El centro histórico cuenta con encantadoras iglesias coloniales y coloridos mercados locales donde los visitantes 
+                    pueden sumergirse en la autenticidad de la vida costarricense. La hospitalidad de la gente local y su rica tradición agrícola también contribuyen a la experiencia cultural única que ofrece Turrialba.
                 </p>
             </div>
         </div>
-        <div class="row">
-            <div class="col-12 col-md-4 p-5 mt-3">
-                <a href="#"><img src="./assets/img/category_img_01.jpg" class="rounded-circle img-fluid border"></a>
-                <h5 class="text-center mt-3 mb-3">Watches</h5>
-                <p class="text-center"><a class="btn btn-success">Go Shop</a></p>
-            </div>
-            <div class="col-12 col-md-4 p-5 mt-3">
-                <a href="#"><img src="./assets/img/category_img_02.jpg" class="rounded-circle img-fluid border"></a>
-                <h2 class="h5 text-center mt-3 mb-3">Shoes</h2>
-                <p class="text-center"><a class="btn btn-success">Go Shop</a></p>
-            </div>
-            <div class="col-12 col-md-4 p-5 mt-3">
-                <a href="#"><img src="./assets/img/category_img_03.jpg" class="rounded-circle img-fluid border"></a>
-                <h2 class="h5 text-center mt-3 mb-3">Accessories</h2>
-                <p class="text-center"><a class="btn btn-success">Go Shop</a></p>
-            </div>
-        </div>
-    </section>--}}
+    </section>
     <!-- End Categories of The Month -->
 
 
@@ -170,11 +167,12 @@ https://templatemo.com/tm-559-zay-shop
     <section class="bg-light">
         <div class="container py-5">
             <div class="row text-center py-3">
-                <div class="col-lg-6 m-auto">
-                    <h1 class="h1">Featured Plans</h1>
-                    <p>
-                        Reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                        Excepteur sint occaecat cupidatat non proident.
+                <div class="col-lg-12 m-auto">
+                    <h1 class="h2">Sobre nuestros planes</h1>
+                    <p class="text-align-left">
+                        En TurriTour, no solo te ofrecemos planes de viaje; te ofrecemos la oportunidad de crear recuerdos inolvidables. 
+                        Empieza a planificar tu próximo viaje con nosotros y descubre un mundo de posibilidades. 
+                        ¡Gracias por considerarnos como tu compañero de viaje!
                     </p>
                 </div>
             </div>

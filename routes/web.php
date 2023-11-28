@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\controlerPrincipal;
+use App\Http\Controllers\ControllerPaquetes;
 use App\Http\Controllers\userController;
 use Illuminate\Support\Facades\Route;
 
@@ -58,6 +59,8 @@ Route::get('/p5', function () {
 Route::get('/shop', function () {
     return view('shop');
 });
+
+Route::resource('admin', ControllerPaquetes::class);
 
 
 

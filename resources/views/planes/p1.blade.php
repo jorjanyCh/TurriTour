@@ -110,7 +110,7 @@ https://templatemo.com/tm-559-zay-shop
 
     
         </div>
-    </nav> --}}
+    </nav>
     @include('partes.head')
     <!-- Close Header -->
 
