@@ -23,9 +23,10 @@ Company information
 
 ## 🚀 Instalación
 
-# 1- Clone the Repository
+
 
 ```bash
+# 1- Clone the Repository:
    git clone https://github.com/jorjanyCh/TurriTour.git
    cd TurriTour ```
 
