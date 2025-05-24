@@ -2,7 +2,7 @@
 
 ## TurriTour
 
-## 🌐 Descripción
+## Description
 
 This project is focused on providing a functional platform for a travel agency to showcase its tour packages to clients. It includes:
 
