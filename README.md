@@ -23,18 +23,23 @@ Company information
 
 ## 🚀 Instalación
 
-1- #Clone the Repository
+# 1- Clone the Repository
 
-2- #Install dependencies:
+```bash
+   git clone https://github.com/jorjanyCh/TurriTour.git
+   cd TurriTour ```
+
+# 2- #Install dependencies:
+
    composer install
    
-3- #Copy environment file:
+# 3- #Copy environment file:
    cp .env.example .env
    
-4- #Generate application key:
+# 4- #Generate application key:
    php artisan key:generate
    
-5-Start the server:
+# 5-Start the server:
   php artisan serve
 
 
