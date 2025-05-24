@@ -23,24 +23,37 @@ Company information
 
 ## 🚀 Instalación
 
-
-
-```bash
 # 1- Clone the Repository:
+```bash
    git clone https://github.com/jorjanyCh/TurriTour.git
-   cd TurriTour ```
-
-# 2- #Install dependencies:
-
+   cd TurriTour 
+```
+# 2- Install Dependencies:
+Install all the necessary PHP dependencies using Composer.
+```bash
    composer install
-   
-# 3- #Copy environment file:
+```
+# 3- Copy the Environment File:
+Duplicate the example environment file to create a new .env file for configuration.
+```bash
    cp .env.example .env
-   
-# 4- #Generate application key:
+```
+
+# 4- Generate Application Key:
+Generate the application encryption key required by Laravel.
+```bash
    php artisan key:generate
+```
+# 5- Start the Development Server:
+Run the Laravel built-in development server.
+```bash
+   php artisan serve
+```
+
+
    
-# 5-Start the server:
-  php artisan serve
+
+
+
 
 
