@@ -21,7 +21,7 @@ Company information
 - **MySQL**
 - **Blade Templating**
 
-## 🚀 Instalación
+## 🚀 Installation
 
 # 1- Clone the Repository:
 ```bash
