@@ -9,29 +9,37 @@
 
 ## TurriTour
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## 🌐 Descripción
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Este proyecto está enfocado en brindar a una agencia de viajes una plataforma funcional para mostrar a los clientes sus paquetes turísticos. Incluye:
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+- Listado de paquetes con descripción e imágenes
+- Página de contacto
+- Información de la empresa
 
-## Learning Laravel
+## ⚙️ Tecnologías utilizadas
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+**PHP 8+**
+- **Laravel 10+**
+- **HTML5 / CSS3**
+- **Bootstrap**
+- **MySQL**
+- **Blade Templating**
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+## 🚀 Instalación
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+1- #Clona el repositorio:
+   ```bash
+   git clone https://github.com/jorjanyCh/TurriTour.git
+   cd TurriTour
+2- #Instalar dependencias:
+   composer install
+3- #Copia archivo de entorno:
+   cp .env.example .env
+4- #Generamos clave de aplicación:
+   php artisan key:generate
+5-Levantar servidor:
+  php artisan serve
 
 ### Premium Partners
 
